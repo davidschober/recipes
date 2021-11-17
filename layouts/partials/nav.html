@@ -1,9 +1,21 @@
-<div id="nav-border" class="container">
-  <nav id="nav" class="nav justify-content-center">
-  {{ range .Site.Menus.main }}
-    {{ $icon := printf "<i data-feather=\"%s\"></i>" .Pre }}
-    {{ $text := print $icon " " .Name | safeHTML }}
-    <a class="nav-link" href="{{ .URL }}">{{ $text }}</a>
-  {{ end }}
-  </nav>
-</div>
+<nav class="border fixed split-nav">
+  <div class="nav-brand">
+      <h3><a href="/">{{.Site.Title}}</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <label for="collapsible1">
+    <i data-feather="menu"></i>
+    </label>
+    <div class="collapsible-body">
+      <ul class="inline">
+      {{ range .Site.Menus.main }}
+        {{ $icon := printf "<i data-feather=\"%s\"></i>" .Pre }}
+        {{ $text := print $icon " " .Name | safeHTML }}
+        <li> <a class="nav-link" href="{{ .URL }}">{{ $text }}</a></li>
+      {{ end }}
+      </ul>
+    </div>
+  </div>
+</nav>
+
