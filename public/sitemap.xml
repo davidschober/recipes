@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2021-11-13T17:04:26-06:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-11-13T17:04:26-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/test/</loc>
+    <lastmod>2021-11-13T17:04:26-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/poetry/</loc>
+    <lastmod>2019-01-12T23:24:54-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2019-01-12T23:24:54-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/that-it-will-never-come-again-by-emily-dickinson/</loc>
+    <lastmod>2019-01-12T23:24:54-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/time/</loc>
+    <lastmod>2019-01-12T23:24:54-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/if-by-rudyard-kipling/</loc>
+    <lastmod>2019-01-12T22:14:57-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/life/</loc>
+    <lastmod>2019-01-12T22:14:57-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url>
+</urlset>
