@@ -57,6 +57,7 @@ fields:
   label: servings
 pages:
 - content/cantuccini.md
+- content/cranberry-relish.md
 - content/cranberry-sauce.md
 - content/easy-lasagne.md
 - content/farinata.md
