@@ -1,7 +1,6 @@
 +++
 categories = [" Desserts", "Cookies"]
 cookTime = ""
-draft = true
 photo = []
 prepTime = ""
 servings = ""
