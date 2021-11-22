@@ -44,4 +44,5 @@ fields:
   label: servings
 pages:
 - content/farinata.md
+- content/jan-hagel.md
 - content/torroncino.md
