@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["Cookies"]
 cookTime = ""
 photo = []
 prepTime = ""
 servings = ""
-tags = []
+tags = ["Southern Italy", " Christmas"]
 title = "Cannarìcuwi"
 
 +++
