@@ -56,6 +56,7 @@ fields:
   name: servings
   label: servings
 pages:
+- content/cannaricuwi.md
 - content/cantuccini.md
 - content/cranberry-relish.md
 - content/cranberry-sauce.md
