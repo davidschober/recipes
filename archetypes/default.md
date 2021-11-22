@@ -1,6 +1,19 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
 tags: []
+categories: []
+photo: []
+prepTime: "-"
+cookTime: "-"
+servings: "-"
 draft: false
 ---
+## Ingredients
+
+- a list
+- of ingredients
+
+## Directions
+
+-  a list
+- of directions

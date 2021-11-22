@@ -7,9 +7,9 @@ title = 'Recipes'
 
 [menu]
   [[menu.main]]
-    name = "Blog"
+    name = "Categories"
     pre = "edit"
-    url = "/blog/"
+    url = "/categories/"
     weight = 2
   [[menu.main]]
     name = "Tags"
