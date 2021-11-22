@@ -8,6 +8,18 @@ fields:
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Thanksgiving
+    - " Christmas"
+    - " Holiday"
+    - Dinner
+    - Breakfast
+    - Southern Italy
+    - Northern Italy
 - type: list
   name: categories
   label: categories
