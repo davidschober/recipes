@@ -57,6 +57,7 @@ fields:
   label: servings
 pages:
 - content/cantuccini.md
+- content/easy-lasagne.md
 - content/farinata.md
 - content/grandma-bellino-s-meatballs.md
 - content/insalata-russa.md
