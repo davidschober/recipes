@@ -27,3 +27,5 @@ fields:
 - type: text
   name: servings
   label: servings
+pages:
+- content/torroncino.md
