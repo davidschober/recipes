@@ -20,6 +20,7 @@ fields:
     - Breakfast
     - Southern Italy
     - Northern Italy
+    - Easter
 - type: list
   name: categories
   label: categories
