@@ -1,7 +1,6 @@
 +++
 categories = []
 cookTime = ""
-draft = true
 photo = []
 prepTime = ""
 servings = "about 6 dozen"
