@@ -57,5 +57,6 @@ fields:
   label: servings
 pages:
 - content/farinata.md
+- content/insalata-russa.md
 - content/jan-hagel.md
 - content/torroncino.md
