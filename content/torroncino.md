@@ -8,11 +8,11 @@ tags = ["Christmas"]
 title = "Torroncino"
 
 +++
-\## Description
+## Description
 
 Rosa’s notes: This recipe comes from Adriana Scalora a former student of mine at LTHS (1979-2003). I’ve made them for Christmas ever since she gave me the recipe in the late 80s.
 
-\## Ingredients
+## Ingredients
 
 * 1/4  c. honey				
 * 1 ½ c. sugar
@@ -20,7 +20,7 @@ Rosa’s notes: This recipe comes from Adriana Scalora a former student of mine 
 * 2 T. sesame seeds, toasted
 * 1  t.	 diced orange peel
 
-\## Directions
+## Directions
 
 * Bring honey to a boil
 * Add sugar and stir until dissolved
