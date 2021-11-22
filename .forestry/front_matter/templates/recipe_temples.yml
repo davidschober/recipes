@@ -1,0 +1,25 @@
+---
+label: recipe_temples
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: photo
+  label: photo
+- type: text
+  name: prepTime
+  label: prepTime
+- type: text
+  name: cookTime
+  label: cookTime
+- type: text
+  name: servings
+  label: servings
