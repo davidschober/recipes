@@ -1,9 +1,13 @@
 {{ define "main" }}
- 
-<img src= "images/bordighera.jpg" />
+<img src= {{ "images/bordighera.jpg" }} />
 <section>
-
-<h1 class = "text-center">{{ .Site.Title }}</h1>
-  <p>{{ .Site.Params.homeText | markdownify }}</p>
-  </section>
+    <h4 class = "text-center">categories</h1>
+</section>
+<section class="row flex-center flex-spaces" >
+    {{ range .Site.Taxonomies.categories }}
+    {{ partial "card.html" (dict "cardPhoto" "https://picsum.photos/768" "cardTitle" (pluralize .Page.Title) "cardSubTitle" .Count "cardLink" .Page.RelPermalink "cardLinkText" "view recipes" )}}
+    {{ end }}
+</section>
 {{ end }}
+
+
