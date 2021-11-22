@@ -11,6 +11,21 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Main Dishes
+    - Sides
+    - Salads
+    - Soups and Stews
+    - " Desserts"
+    - Drinks
+    - Appetizers
+    - Breads
+    - Sauces
+    - Cookies
 - type: list
   name: photo
   label: photo
