@@ -14,6 +14,10 @@ fields:
 - type: list
   name: photo
   label: photo
+  config:
+    use_select: false
+    source:
+      type: simple
 - type: text
   name: prepTime
   label: prepTime
