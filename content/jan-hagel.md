@@ -1,10 +1,10 @@
 +++
 categories = ["Cookies", " Desserts"]
-cookTime = ""
+cookTime = "18-20 minutes"
 photo = []
 prepTime = ""
 servings = ""
-tags = []
+tags = [" Christmas"]
 title = "Jan Hagel"
 
 +++
