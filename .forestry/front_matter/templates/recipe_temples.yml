@@ -28,4 +28,5 @@ fields:
   name: servings
   label: servings
 pages:
+- content/farinata.md
 - content/torroncino.md
