@@ -1,7 +1,6 @@
 +++
 categories = ["Sides"]
 cookTime = ""
-draft = true
 photo = []
 prepTime = ""
 servings = ""
