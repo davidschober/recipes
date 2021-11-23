@@ -1,13 +1,10 @@
 {{ define "main" }}
 
 <h1>{{ .Title }}</h1>
-
-{{ range .Data.Terms.Alphabetical }}
-<p>
-  <a class="btn btn-outline-dark font-125" href="{{ .Page.Permalink }}">
-    <span class="badge badge-dark">{{ .Count }}</span> {{ .Page.Title }}
-  </a>
-</p>
-{{ end }}
+<ul>
+    {{ range .Data.Terms.Alphabetical }}
+    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
+    {{ end }}
+</ul>
 
 {{ end }}
