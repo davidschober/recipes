@@ -10,9 +10,9 @@ title = "Sardenaira"
 +++
 ## Ingredients
 
-* 4cups flour
-* 2cups of warm water
-* 1pk of yeast
+* 4 cups flour
+* 2 cups of warm water
+* 1 pk of yeast
 * 3 T. oil
 * 1 T. salt
 * 1 t. sugar
