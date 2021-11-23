@@ -21,10 +21,10 @@ title = "Sardenaira"
 
 * Mix the above together and let rise. Place dough in a pan and top with the following
 * 1 can peeled tomatoes
-* Origano
+* Oregano
 * Garlic in their peel
-* anchovies
-* Olives
-* Capers
-* Oil
-* Bake in a hot oven (475) until done(15 min)
+* anchovies (optional)
+* Olives - (taggiasche); substitute black cured
+* Capers (optional)
+* Olive oil
+* Bake in a hot oven (475) until done (15 min)
