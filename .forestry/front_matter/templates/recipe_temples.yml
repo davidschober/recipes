@@ -13,14 +13,14 @@ fields:
     source:
       type: simple
     options:
-    - Thanksgiving
+    - Breakfast
     - Christmas
     - Dinner
-    - Breakfast
-    - Southern Italy
-    - Northern Italy
     - Easter
     - Holiday
+    - Northern Italy
+    - Southern Italy
+    - Thanksgiving
 - type: list
   name: categories
   label: categories
