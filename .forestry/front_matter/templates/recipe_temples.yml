@@ -15,12 +15,13 @@ fields:
     options:
     - Thanksgiving
     - " Christmas"
-    - " Holiday"
     - Dinner
     - Breakfast
     - Southern Italy
     - Northern Italy
     - Easter
+    - Holiday
+    - Christmas
 - type: list
   name: categories
   label: categories
@@ -33,12 +34,12 @@ fields:
     - Sides
     - Salads
     - Soups and Stews
-    - " Desserts"
     - Drinks
     - Appetizers
     - Breads
     - Sauces
     - Cookies
+    - Desserts
 - type: list
   name: photo
   label: photo
