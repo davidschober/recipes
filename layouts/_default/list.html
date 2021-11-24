@@ -1,5 +1,16 @@
 {{ define "main" }}
 
+{{ $imagePath := (printf "/assets/images/categories/%s.jpg" (.Page.Title|urlize)) }}
+
+{{if (fileExists $imagePath) -}}
+
+{{- $image := resources.Get (printf "images/categories/%s.jpg" (.Page.Title|urlize)) -}}
+
+<img src="{{ ($image.Fill "500x300 q75").RelPermalink }}"/>
+
+{{- end }}
+
+
 <h1>{{ .Title }}</h1>
 <ul>
 {{ range .Pages.ByTitle}}

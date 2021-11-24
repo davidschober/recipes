@@ -1,11 +1,12 @@
 {{ define "main" }}
-<img src= {{ "images/bordighera.jpg" }} />
+<img src= {{ "home.jpg" }} />
 <section>
     <h4 class = "text-center">categories</h1>
 </section>
 <section class="row flex-center flex-spaces" >
     {{ range .Site.Taxonomies.categories }}
-    {{ $cardImage := printf "/images/categories/%s.jpg" (.Page.Title|urlize) }}
+    
+    {{- $cardImage := resources.Get (printf "images/categories/%s.jpg" (.Page.Title|urlize)) -}}
     {{ $payload :=(dict 
         "cardPhoto" $cardImage 
         "cardTitle" (pluralize .Page.Title) 

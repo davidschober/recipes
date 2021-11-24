@@ -1,5 +1,15 @@
 {{ define "main" }}
 
+{{ $imagePath := (printf "/assets/images/recipes/%s.jpg" (.Page.Title|urlize)) }}
+
+{{if (fileExists $imagePath) -}}
+
+{{- $image := resources.Get (printf "images/recipes/%s.jpg" (.Page.Title|urlize)) -}}
+
+<img src="{{ ($image.Fill "500x200 q75").RelPermalink }}"/>
+
+{{- end }}
+
 <h1>{{ .Title }}</h1>
 
 {{ partial "date-and-tags.html" . }}
