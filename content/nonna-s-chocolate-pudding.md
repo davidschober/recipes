@@ -1,5 +1,5 @@
 +++
-categories = [" Desserts"]
+categories = ["Desserts"]
 cookTime = ""
 photo = []
 prepTime = ""

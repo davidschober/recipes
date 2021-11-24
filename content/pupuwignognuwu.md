@@ -4,7 +4,7 @@ cookTime = ""
 photo = []
 prepTime = ""
 servings = ""
-tags = ["Southern Italy", " Holiday", "Easter"]
+tags = ["Southern Italy", "Holiday", "Easter"]
 title = "Pupuwignognuwu - Easter Babies"
 
 +++
