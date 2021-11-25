@@ -2,97 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Recipes</title>
-    <link>http://example.org/categories/</link>
+    <link>https://davidschober.github.io/recipes/categories/</link>
     <description>Recent content in Categories on Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://davidschober.github.io/recipes/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appetizers</title>
-      <link>http://example.org/categories/appetizers/</link>
+      <link>https://davidschober.github.io/recipes/categories/appetizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/appetizers/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/appetizers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Breads</title>
-      <link>http://example.org/categories/breads/</link>
+      <link>https://davidschober.github.io/recipes/categories/breads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/breads/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/breads/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cookies</title>
-      <link>http://example.org/categories/cookies/</link>
+      <link>https://davidschober.github.io/recipes/categories/cookies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/cookies/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/cookies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Desserts</title>
-      <link>http://example.org/categories/desserts/</link>
+      <link>https://davidschober.github.io/recipes/categories/desserts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/desserts/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/desserts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drinks</title>
-      <link>http://example.org/categories/drinks/</link>
+      <link>https://davidschober.github.io/recipes/categories/drinks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/drinks/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/drinks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entree</title>
-      <link>http://example.org/categories/entree/</link>
+      <link>https://davidschober.github.io/recipes/categories/entree/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/entree/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/entree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Main Dishes</title>
-      <link>http://example.org/categories/main-dishes/</link>
+      <link>https://davidschober.github.io/recipes/categories/main-dishes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/main-dishes/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/main-dishes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sauces</title>
-      <link>http://example.org/categories/sauces/</link>
+      <link>https://davidschober.github.io/recipes/categories/sauces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/sauces/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/sauces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sides</title>
-      <link>http://example.org/categories/sides/</link>
+      <link>https://davidschober.github.io/recipes/categories/sides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/sides/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/sides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soups and Stews</title>
-      <link>http://example.org/categories/soups-and-stews/</link>
+      <link>https://davidschober.github.io/recipes/categories/soups-and-stews/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/categories/soups-and-stews/</guid>
+      <guid>https://davidschober.github.io/recipes/categories/soups-and-stews/</guid>
       <description></description>
     </item>
     

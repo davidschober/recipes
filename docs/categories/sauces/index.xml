@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sauces on Recipes</title>
-    <link>http://example.org/categories/sauces/</link>
+    <link>https://davidschober.github.io/recipes/categories/sauces/</link>
     <description>Recent content in Sauces on Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/sauces/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://davidschober.github.io/recipes/categories/sauces/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paolo&#39;s sauce</title>
-      <link>http://example.org/dadssauce/</link>
+      <link>https://davidschober.github.io/recipes/dadssauce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/dadssauce/</guid>
+      <guid>https://davidschober.github.io/recipes/dadssauce/</guid>
       <description>Notes My mom always added butter at the end to give it a more velvety taste. I haven’t done it but it’s an option
 Ingredients  1 large onion chopped and sautéed until translucent Olive oil (quello buono) 1 Large can of crushed tomatoes 1 Pomì of strained tomatoes Salt, pepper to taste Rosemary (fresh if possible)  Directions  Cover the bottom of the pan with oil on medium heat When oil is beginning to sizzle add the onion and rosemary.</description>
     </item>
