@@ -6,7 +6,7 @@
 
 {{- $image := resources.Get (printf "images/categories/%s.jpg" (.Page.Title|urlize)) -}}
 
-<img src="{{ ($image.Fill "500x300 q75").RelPermalink }}"/>
+<img src="{{ ($image.Fill "900x300 q75").RelPermalink }}"/>
 
 {{- end }}
 
