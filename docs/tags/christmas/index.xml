@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christmas on Recipes</title>
+    <link>http://example.org/tags/christmas/</link>
+    <description>Recent content in Christmas on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/tags/christmas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cannarìcuwi</title>
+      <link>http://example.org/cannaricuwi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/cannaricuwi/</guid>
+      <description>Description pasta arrotolata della lunghezza di un pollice cotta in olio bollente e ricoperta di miele</description>
+    </item>
+    
+    <item>
+      <title>Crispi</title>
+      <link>http://example.org/crispi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/crispi/</guid>
+      <description>Ingredients  2-4 cups of flour 1 package of yeast 1T. salt 1-2 cups water Oil for frying  Directions  Mix as you would for making a pizza. This dough will be a lot stickier Let rise until doubled Dip your hands into a bowl of oil, shape a bit of dough into a round doughnut or ring and drop into a pan full of very hot oil until golden brown.</description>
+    </item>
+    
+    <item>
+      <title>Jan Hagel</title>
+      <link>http://example.org/jan-hagel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/jan-hagel/</guid>
+      <description>Description Rosa’s notes: Mom always made these for Christmas and everybody thought that they were Italian cookies, but I had found this recipe in a magazine when I was in high school and we always made them together. It’s a Swedish cookie.​​
+Ingredients  1 1/2 c. flour ​3/4 c. sugar ​½ t. cinnamon ​½ c. butter ​1 egg ​1 egg white ​½ c. Slivered almonds  Directions  ​In large bowl combine flour, ½ c.</description>
+    </item>
+    
+    <item>
+      <title>Torroncino</title>
+      <link>http://example.org/torroncino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/torroncino/</guid>
+      <description>Description Rosa’s notes: This recipe comes from Adriana Scalora a former student of mine at LTHS (1979-2003). I’ve made them for Christmas ever since she gave me the recipe in the late 80s.
+Ingredients  1/4 c. honey 1 ½ c. sugar 1 lb. Skinless slivered almonds, toasted 2 T. sesame seeds, toasted 1 t.	diced orange peel  Directions  Bring honey to a boil Add sugar and stir until dissolved Add orange peel and almonds and cook stirring for 2-3 min.</description>
+    </item>
+    
+  </channel>
+</rss>
