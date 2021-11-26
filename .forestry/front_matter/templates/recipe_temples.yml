@@ -39,6 +39,7 @@ fields:
     - Sauces
     - Sides
     - Soups and Stews
+    - Pasta
 - type: list
   name: photo
   label: photo
