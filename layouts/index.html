@@ -6,7 +6,7 @@
 <section class="row flex-center flex-spaces" >
     {{ range .Site.Taxonomies.categories }}
     
-    {{- $cardImage := resources.Get (printf "images/categories/%s.jpg" (.Page.Title|urlize)) -}}
+    {{- $cardImage := resources.Get (printf "%s.jpg" (.Page.Title|urlize)) -}}
     {{ $payload :=(dict 
         "cardPhoto" $cardImage 
         "cardTitle" (pluralize .Page.Title) 

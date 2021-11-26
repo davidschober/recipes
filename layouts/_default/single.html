@@ -4,7 +4,7 @@
 
 {{if (fileExists $imagePath) -}}
 
-{{- $image := resources.Get (printf "images/recipes/%s.jpg" (.Page.Title|urlize)) -}}
+{{- $image := resources.Get (printf "%s.jpg" (.Page.Title|urlize)) -}}
 
 <img src="{{ ($image.Resize "500x q75").RelPermalink }}" class="float-right"/>
 
