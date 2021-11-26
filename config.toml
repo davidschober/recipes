@@ -2,6 +2,9 @@ baseURL = 'https://davidschober.github.io/recipes/'
 languageCode = 'en-us'
 title = 'Recipes'
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [permalinks]
   blog = "/:filename/"
 

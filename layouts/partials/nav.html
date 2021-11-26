@@ -14,7 +14,11 @@
                 {{ $text := print $icon " " .Name | safeHTML }}
                 <li> <a class="nav-link" href="{{ .URL }}">{{ $text }}</a></li>
                 {{ end }}
+                </li> 
+
+                <li><a class ="nav-link" href = "/recipes/search/"><i data-feather="search"></i>Search</a></li>
             </ul>
+
         </div>
     </div>
 </nav>
