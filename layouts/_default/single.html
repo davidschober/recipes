@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $imagePath := (printf "/assets/images/recipes/%s.jpg" (.Page.Title|urlize)) }}
+{{ $imagePath := (printf "/assets/%s.jpg" (.Page.Title|urlize)) }}
 
 {{if (fileExists $imagePath) -}}
 

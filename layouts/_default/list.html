@@ -1,10 +1,10 @@
 {{ define "main" }}
 
-{{ $imagePath := (printf "/assets/images/categories/%s.jpg" (.Page.Title|urlize)) }}
+{{ $imagePath := (printf "/assets/%s.jpg" (.Page.Title|urlize)) }}
 
 {{if (fileExists $imagePath) -}}
 
-{{- $image := resources.Get (printf "images/categories/%s.jpg" (.Page.Title|urlize)) -}}
+{{- $image := resources.Get (printf "%s.jpg" (.Page.Title|urlize)) -}}
 
 <img src="{{ ($image.Fill "900x300 q75").RelPermalink }}"/>
 
