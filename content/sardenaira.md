@@ -5,7 +5,7 @@ photo = []
 prepTime = ""
 servings = ""
 tags = ["Northern Italy"]
-title = "Sardenaira"
+title = "La Sardenaira"
 
 +++
 ## Ingredients
