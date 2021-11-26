@@ -22,7 +22,8 @@ title = "Grandma Bellino's Pizza"
 * 1/2 lb. shredded mozzarella
 
 ## Directions
-* In a mixing bowl place the flour, salt and yeast mixture. * Slowly add more water and knead until dough is nice and elastic. 
+* In a mixing bowl place the flour, salt and yeast mixture.
+* Slowly add more water and knead until dough is nice and elastic. 
 * Cover and let it rise 
 * Oil a cookie sheet, add plenty of corn meal
 * Add dough stretching so that it covers pan. Cover and let it rest for half an hour.
