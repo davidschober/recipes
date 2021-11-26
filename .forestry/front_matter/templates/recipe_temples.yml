@@ -57,6 +57,7 @@ fields:
   name: servings
   label: servings
 pages:
+- content/boulevardier.md
 - content/cannaricuwi.md
 - content/cantuccini.md
 - content/castagnaccio.md
