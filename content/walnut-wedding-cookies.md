@@ -23,7 +23,7 @@ title = "Walnut Wedding Cookies"
 * Stir in flour and walnuts
 * Form 1" balls
 * Bake 325 degrees, 20 minutes
-* Cool
-* Roll in 1 cup powdered sugar
+* Cool just a little bit
+* Roll in powdered sugar while still warm
 * Refrigerate 1 hour
 * Roll again
