@@ -1,0 +1,5 @@
+[
+    {{ range $index, $e := .Site.RegularPages }}
+    {{ if $index }}, {{ end }} {{dict "title" .Title "contents" .Plain "tags" .Params.Tags  "permalink" .Permalink |jsonify }}
+    {{ end }}
+]

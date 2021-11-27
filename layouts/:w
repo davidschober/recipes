@@ -1,0 +1,6 @@
+[
+{{- range $index, $e := .Pages -}}
+{{if $index }},{{.Title |jsonify}}
+{{ end}}
+{{end}}
+]
