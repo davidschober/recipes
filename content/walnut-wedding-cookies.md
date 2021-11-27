@@ -2,7 +2,7 @@
 categories = ["Cookies"]
 cookTime = ""
 prepTime = ""
-servings = ""
+servings = "2 dozen"
 tags = ["Christmas"]
 title = "Walnut Wedding Cookies"
 
