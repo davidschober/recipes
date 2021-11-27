@@ -1,5 +1,5 @@
 +++
-categories = ["Desserts"]
+categories = ["Cookies"]
 cookTime = ""
 prepTime = ""
 servings = ""
