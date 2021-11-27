@@ -21,6 +21,8 @@ Easter babies
 - Egg wash (mix one egg with 1 T. water)
 - Icing-optional (1 c. Confectioners sugar mixed with warm milk)
 
+Original:
+* 1 kg.di farina, 1 cucchiaio raso di sale, 4 uova, 1 bicchiere di olio,1 bicchiere di vino bianco, 12 gr. di lievito di birra. Impastare tipo gnocchi, morbido, lasciar lievitare per alcune ore. Poi fare le forme ,mettere le uova sode, disporre nelle teglie e lasciar lievitare di nuovo per mezz'ora. Infornare a 200 gradi.
 
 ## Directions
 - In a mixing bowl warm up first 3 ingredients 
@@ -33,4 +35,3 @@ Easter babies
 - Brush egg wash over the braids
 - Bake 375 degrees until nicely browned
 - Top with icing if desired
-
