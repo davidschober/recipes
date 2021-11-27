@@ -1,7 +1,7 @@
 +++
 categories = ["Desserts"]
 cookTime = ""
-photo = ""
+photo = "/assets/img_2127.JPG"
 prepTime = ""
 servings = ""
 tags = ["Christmas"]
