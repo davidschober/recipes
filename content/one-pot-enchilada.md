@@ -31,7 +31,9 @@ title = "One Pot Enchilada"
 * Bring to boil
 * Reduce to simmer
 * Cover
-* Cook 20 min or until quinoa is done
+* Cook 20 min or until quinoa is done, stirring occasionally. May need to add water.
+* Stir in kale and cheese, if using
+* Serve with avocado or other toppings
 
 ## Notes
 
