@@ -363,6 +363,22 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 * Bake for 45 min. In a 375 degree oven
 
 
+# Breakfast
+
+## Nonna Pancakes 
+### Ingredients
+
+* 1 egg
+* 1 banana
+* cinnamon
+
+### Directions
+
+* Mash banana and mix with egg
+* Add cinnamon to taste
+* Pan fry as normal pancakes
+
+
 # Cookies
 
 ## Amaretti 
@@ -822,19 +838,6 @@ gnocchi and top with more parmesan.
 - Dredge chicken in flour and fry in oil until golden
 - Add lemon juice and stock and cook over low heat until done
 - Serve with pan drippings and a slice of lemon
-
-## Nonna Pancakes 
-### Ingredients
-
-* 1 egg
-* 1 banana
-* cinnamon
-
-### Directions
-
-* Mash banana and mix with egg
-* Add cinnamon to taste
-* Pan fry as normal pancakes
 
 ## One Pot Enchilada 
 ### Ingredients
