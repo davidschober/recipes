@@ -4,7 +4,7 @@ cookTime = ""
 photo = []
 prepTime = ""
 servings = ""
-tags = ["Southern Italy"]
+tags = ["Christmas", "Holiday", "Southern Italy"]
 title = "‘Ncicirata"
 
 +++
