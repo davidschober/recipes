@@ -2,13 +2,26 @@ baseURL = 'https://davidschober.github.io/recipes/'
 languageCode = 'en-us'
 title = 'Recipes'
 
+[mediaTypes]
+  [mediaTypes."text/markdown"]
+  suffixes = ["md","markdown"]
+[outputFormats.markdown]
+  mediaType = "text/markdown"
+  baseName = "index"
+  isPlainText = true
+
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "markdown"]
 
 [permalinks]
   blog = "/:filename/"
 
 [menu]
+  [[menu.main]]
+    name = "All Recipes"
+    pre = "list"
+    url = "/siteindex/"
+    weight = 1
   [[menu.main]]
     name = "Categories"
     pre = "edit"
