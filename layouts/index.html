@@ -9,7 +9,7 @@
     {{- $cardImage := resources.Get (printf "%s.jpg" (.Page.Title|urlize)) -}}
     {{ $payload :=(dict 
         "cardPhoto" $cardImage 
-        "cardTitle" (pluralize .Page.Title) 
+        "cardTitle" (.Page.Title) 
         "cardSubTitle" .Count 
         "cardLink" .Page.RelPermalink 
         "cardLinkText" "view recipes" )}}

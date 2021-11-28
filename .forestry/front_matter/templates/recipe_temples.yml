@@ -1,5 +1,5 @@
 ---
-label: recipe_temples
+label: recipe_templates
 hide_body: false
 fields:
 - type: text
@@ -18,10 +18,10 @@ fields:
     - Dinner
     - Easter
     - Holiday
+    - Needs Work
     - Northern Italy
     - Southern Italy
     - Thanksgiving
-    - Needs Work
 - type: list
   name: categories
   label: categories
@@ -32,16 +32,16 @@ fields:
     options:
     - Appetizers
     - Breads
+    - Breakfast
     - Cookies
     - Desserts
     - Drinks
     - Main Dishes
+    - Pasta
     - Salads
     - Sauces
     - Sides
     - Soups and Stews
-    - Pasta
-    - Breakfast
 - type: text
   name: prepTime
   label: prepTime
@@ -51,11 +51,6 @@ fields:
 - type: text
   name: servings
   label: servings
-- name: photo
-  type: file
-  config:
-    maxSize: 64
-  label: Photo
 pages:
 - content/amaretti.md
 - content/boulevardier.md
