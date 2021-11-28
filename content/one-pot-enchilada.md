@@ -17,6 +17,8 @@ title = "One Pot Enchilada"
 * 1 can diced tomatoes
 * 1 can/packet enchilada sauce (10 oz)
 * 1/2 cup water (we usually need more, probably closer to a cup)
+* 2 cups kale or spinach (optional)
+* 1/2 cup shredded cheese (optional)
 * Seasoning:
   * 1 tsp chili powder
   * 1 tsp cumin
