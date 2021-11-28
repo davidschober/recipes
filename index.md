@@ -862,7 +862,7 @@ gnocchi and top with more parmesan.
 * Cover
 * Cook 20 min or until quinoa is done
 
-Notes
+### Notes
 
 Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/](https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/ "Quick and Easy Black Bean Enchilada Quinoa")
 
