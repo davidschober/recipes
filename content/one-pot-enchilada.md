@@ -17,7 +17,7 @@ title = "One Pot Enchilada"
 * 1 can diced tomatoes
 * 1 can/packet enchilada sauce (10 oz)
 * 1/2 cup water (we usually need more, probably closer to a cup)
-* Seasoning: 
+* Seasoning:
   * 1 tsp chili powder
   * 1 tsp cumin
   * 1/2 tsp paprika
@@ -35,4 +35,4 @@ title = "One Pot Enchilada"
 
 Notes
 
-Originally from Simple Healthy Kitchen: https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/
+Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/](https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/ "Quick and Easy Black Bean Enchilada Quinoa")
