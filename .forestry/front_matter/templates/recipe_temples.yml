@@ -21,7 +21,7 @@ fields:
     - Northern Italy
     - Southern Italy
     - Thanksgiving
-    - Incomplete
+    - Needs Work
 - type: list
   name: categories
   label: categories
