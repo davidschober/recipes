@@ -18,6 +18,11 @@ title = 'Recipes'
 
 [menu]
   [[menu.main]]
+    name = "All Recipes"
+    pre = "list"
+    url = "/siteindex/"
+    weight = 1
+  [[menu.main]]
     name = "Categories"
     pre = "edit"
     url = "/categories/"
