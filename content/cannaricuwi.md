@@ -5,7 +5,7 @@ photo = []
 prepTime = ""
 servings = ""
 tags = ["Southern Italy", "Christmas"]
-title = "Cannarìcuwi"
+title = "Cannarìculi"
 
 +++
 ## Description
