@@ -4,7 +4,7 @@ cookTime = ""
 photo = []
 prepTime = ""
 servings = ""
-tags = []
+tags = ["Southern Italy", "Needs Work"]
 title = "Frizzuli"
 
 +++
