@@ -3,7 +3,7 @@ categories = ["Desserts"]
 cookTime = "30 min"
 prepTime = ""
 servings = ""
-tags = ["Christmas"]
+tags = ["Holiday", "Christmas"]
 title = "Coffee Kranz"
 
 +++
