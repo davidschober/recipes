@@ -118,6 +118,31 @@ Directions
 * Preparare nel frattempo il condimento: cuocere dolcemente in olio extra vergine di oliva le cipolle tagliate sottili; quando iniziano ad appassire, unire i pomodori pelati e spezzettati, far cuocere fino a completa evaporazione dell'acqua, aggiungere eventualmente un pochino di sale. Dissalare e diliscare le acciughe, lavarle e asciugarle adagiandole su carta da cucina.
 * Stendere la pasta aiutandosi con le mani leggermente unte, senza toglierla dalla teglia. Lasciarla di nuovo lievitare altri 45 minuti. Distribuire la salsa in maniera uniforme, aggiungere le acciughe, i capperi già sciacquati e asciutti, le olive e una spolverata di origano; cospargere di olio extravergine di oliva e infornare a 250° per circa 20/30 minuti, fino a che il bordo della pizza non sarà dorato.
 
+## Pickled Mushrooms 
+### Ingredients
+
+* water
+* vinegar
+* button mushrooms
+* 
+
+### Directions
+
+* Boil 1/2 water and 1/2 vinegar
+* Add button mushrooms for 5 minutes
+* Drain
+* Cool mushrooms with lemons and peppercorns
+* Place in jars
+* Fill with vinegar
+
+Questions: 
+
+* sliced lemons? How many? Do you put the lemons in the jars? I don't remember lemons. 
+* White vinegar?
+* Fill with vinegar - new vinegar, the vinegar/water mix?  
+* How many peppercorns? Black peppercorns?
+* Amounts??
+
 ## Pitte ’N Chiuse 
 ### Ingredients
 - 2 C. Flour
