@@ -1286,6 +1286,11 @@ Spinach and ricotta gnocchi with butter and sage sauce
 * In a saucepan place the butter and sage and melt together.  
 * Drizzle on the gnocchi and top with the remaining parmesan.
 
+## Pasta alla Puttanesca 
+### Ingredients
+
+### Directions
+
 ## Pasta con Panna, Prosciutto, e Piselli 
 ### Description
 
