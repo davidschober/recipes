@@ -52,6 +52,22 @@
 * Preheat a cast iron pan in 450 oven
 * Pour 2+T. Oil in pan, add the batter and bake for 5-10min
 
+## Hummus 
+### Ingredients
+
+* 1 can chick peas
+* 2 cloves garlic
+* lemon juice
+* Oil or tahini
+* Cumin
+* Paprika
+* Salt
+* 
+
+### Directions
+
+### 
+
 ## Insalata Russa 
 ### Description
 
