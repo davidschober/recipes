@@ -1,10 +1,10 @@
 +++
 categories = ["Breads"]
-cookTime = ""
+cookTime = "60-75 min"
 prepTime = ""
-servings = ""
+servings = "10"
 tags = []
-title = "Gluten-free banana bread"
+title = "Banana Bread - Gluten-free"
 
 +++
 ## Ingredients
