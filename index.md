@@ -373,6 +373,18 @@ Originally from Minimalist Baker: [https://minimalistbaker.com/one-bowl-gluten-f
 - Dip your hands into a bowl of oil, shape a bit of dough into a round doughnut or ring and drop into a pan full of very hot oil until golden brown. 
 - Eat warm topped with either salt or sugar.
 
+## Foccacia 
++++
+categories = ["Breads"]
+cookTime = ""
+prepTime = ""
+servings = ""
+tags = ["Needs Work", "Northern Italy"]
+title = "Foccacia"
+
++++
+
+
 ## La Sardenaira 
 ### Ingredients
 
