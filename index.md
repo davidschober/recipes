@@ -373,7 +373,7 @@ Originally from Minimalist Baker: [https://minimalistbaker.com/one-bowl-gluten-f
 - Dip your hands into a bowl of oil, shape a bit of dough into a round doughnut or ring and drop into a pan full of very hot oil until golden brown. 
 - Eat warm topped with either salt or sugar.
 
-## Foccacia 
+## Focaccia 
 ### Description
 
 Almost no-knead foccacia, developed by David based on Grandma Giordano's recipe (that wasn't written down)
