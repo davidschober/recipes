@@ -899,6 +899,24 @@ Rosa’s notes: Mom always made these for Christmas and everybody thought that t
 * Cover with foil and bake for 30 min in 400 degree oven
 * Remove foil and bake 10 more minutes
 
+## Gnocchi 
+### Ingredients
+- 4 medium potatoes, cooked and riced
+- 1 t. Salt, 1 t. Pepper
+- 1 egg
+- 1 c. Flour
+
+### Directions
+
+- Cook the potatoes in their skin. Cool and rice
+- Add the rest of ingredients to the potatoes 
+- Form a long rope of about a foot
+- Cut rope every one inch
+- Run each over a grater to form indentation; or use a fork
+- Cook in plenty of salted water
+- They are done when they come to the top
+- Serve with any sauce
+
 ## Gnocchi Verdi: Spinach and Ricotta Gnocchi 
 ### Ingredients
 
@@ -1048,24 +1066,6 @@ Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/qu
 - Add some water as needed
 - Add cooked pasta to the skillet and toss with cheese
 
-## Potato Gnocchi 
-### Ingredients
-- 4 medium potatoes, cooked and riced
-- 1 t. Salt, 1 t. Pepper
-- 1 egg
-- 1 c. Flour
-
-### Directions
-
-- Cook the potatoes in their skin. Cool and rice
-- Add the rest of ingredients to the potatoes 
-- Form a long rope of about a foot
-- Cut rope every one inch
-- Run each over a grater to form indentation; or use a fork
-- Cook in plenty of salted water
-- They are done when they come to the top
-- Serve with any sauce
-
 ## Risotto ai Funghi Porcini 
 ### Ingredients
 
@@ -1178,6 +1178,24 @@ Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/qu
 ### Directions
 - None provided
 
+## Gnocchi 
+### Ingredients
+- 4 medium potatoes, cooked and riced
+- 1 t. Salt, 1 t. Pepper
+- 1 egg
+- 1 c. Flour
+
+### Directions
+
+- Cook the potatoes in their skin. Cool and rice
+- Add the rest of ingredients to the potatoes 
+- Form a long rope of about a foot
+- Cut rope every one inch
+- Run each over a grater to form indentation; or use a fork
+- Cook in plenty of salted water
+- They are done when they come to the top
+- Serve with any sauce
+
 ## Gnocchi Verdi: Spinach and Ricotta Gnocchi 
 ### Ingredients
 
@@ -1219,24 +1237,6 @@ gnocchi and top with more parmesan.
 4 T unsalted butter
 1T fresh sage (dried can be substituted)
 4T Parmesan cheese
-
-## Potato Gnocchi 
-### Ingredients
-- 4 medium potatoes, cooked and riced
-- 1 t. Salt, 1 t. Pepper
-- 1 egg
-- 1 c. Flour
-
-### Directions
-
-- Cook the potatoes in their skin. Cool and rice
-- Add the rest of ingredients to the potatoes 
-- Form a long rope of about a foot
-- Cut rope every one inch
-- Run each over a grater to form indentation; or use a fork
-- Cook in plenty of salted water
-- They are done when they come to the top
-- Serve with any sauce
 
 ## Raschiatelli 
 ### Ingredients
