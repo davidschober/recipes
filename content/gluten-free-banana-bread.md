@@ -23,12 +23,14 @@ title = "Banana Bread - Gluten-free"
 * 1 1/4 cup almond meal
 * 1 1/4 cup gluten-free flour blend
 * 1 1/4 cup gluten-free oats
+* Chocolate chips (optional)
 
 ## Directions
 
 * Preheat oven to 350 degrees F and line a 9×5-inch loaf pan with parchment paper.
-* Mash banana in a large bowl. Add all ingredients through almond milk (vanilla, egg, oil, cane sugar, brown sugar, maple syrup, baking powder, salt, cinnamon, almond milk) and whisk vigorously to combine. 
+* Mash banana in a large bowl. Add all ingredients through almond milk (vanilla, egg, oil, cane sugar, brown sugar, maple syrup, baking powder, salt, cinnamon, almond milk) and whisk vigorously to combine.
 * Last add almond meal, gluten free flour blend and oats and stir.
+* Stir in chocolate chips (optional)
 * Bake for 1 hour – 1 hour 15 minutes. When ready, it should feel firm and be crackly and golden brown on top.
 * Let cool completely before cutting or it will be too tender to hold form.
 * Serve with butter and honey or as is. Store leftovers in a covered container for up to a few days. Slice and freeze for longer term storage.
