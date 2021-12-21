@@ -277,23 +277,7 @@ For the dough, start with a mound of flour with a hole in middle. Add salt, add 
 
 # Breads
 
-## Crispi 
-### Ingredients
-
-- 2-4 cups of flour 
-- 1 package of yeast
-- 1T. salt
-- 1-2 cups water
-- Oil for frying
-
-### Directions
-
-- Mix as you would for making a pizza. This dough will be a lot stickier 
-- Let rise until doubled
-- Dip your hands into a bowl of oil, shape a bit of dough into a round doughnut or ring and drop into a pan full of very hot oil until golden brown. 
-- Eat warm topped with either salt or sugar.
-
-## Gluten-free banana bread 
+## Banana Bread - Gluten-free 
 ### Ingredients
 
 * 3 medium ripe bananas (3 bananas yield \~1 1/2 cups)
@@ -323,6 +307,22 @@ For the dough, start with a mound of flour with a hole in middle. Add salt, add 
 ### Notes
 
 Originally from Minimalist Baker: [https://minimalistbaker.com/one-bowl-gluten-free-banana-bread/](https://minimalistbaker.com/one-bowl-gluten-free-banana-bread/ "https://minimalistbaker.com/one-bowl-gluten-free-banana-bread/")
+
+## Crispi 
+### Ingredients
+
+- 2-4 cups of flour 
+- 1 package of yeast
+- 1T. salt
+- 1-2 cups water
+- Oil for frying
+
+### Directions
+
+- Mix as you would for making a pizza. This dough will be a lot stickier 
+- Let rise until doubled
+- Dip your hands into a bowl of oil, shape a bit of dough into a round doughnut or ring and drop into a pan full of very hot oil until golden brown. 
+- Eat warm topped with either salt or sugar.
 
 ## La Sardenaira 
 ### Ingredients
