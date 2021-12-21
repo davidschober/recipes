@@ -20,4 +20,10 @@ title = "Hummus"
 
 ## Directions
 
-## 
+* Mix in food processor
+* Add water to thin if necessary
+
+Variations
+
+* Add roasted red peppers
+* Use white beans
