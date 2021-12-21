@@ -975,20 +975,23 @@ Spinach and ricotta gnocchi with butter and sage sauce
 * 1 red pepper, sliced thinly
 * 1 large onion, sliced thinly
 * 2 cloves garlic, sliced thinly
+* Tomato sauce
 * 1 T. Italian seasonings
-* salt, pepper, peperoncino
 * 1/2 lb. shredded mozzarella
+* salt, pepper 
+* Peperoncino (sprinkled on top after baking)
 
 ### Directions
+
 * In a mixing bowl place the flour, salt and yeast mixture.
-* Slowly add more water and knead until dough is nice and elastic. 
-* Cover and let it rise 
+* Slowly add more water and knead until dough is nice and elastic.
+* Cover and let it rise
 * Oil a cookie sheet, add plenty of corn meal
 * Add dough stretching so that it covers pan. Cover and let it rest for half an hour.
 * In the meantime, sauté red pepper, onion, and garlic in plenty of olive oil.
-* Add Italian seasonings, salt, pepper, and dash of peperoncino
-* Top dough with tomato sauce, then the pepper mixture and finally with 1/2 lb shredded mozzarella
-* Bake in a preheated 475 degree oven for 12-15 min
+* Add Italian seasonings, salt, pepper
+* Top dough with tomato sauce, then the pepper mixture, then shredded mozzarella
+* Bake 475 degrees for 12-15 min
 
 ## Lemon Chicken 
 ### Ingredients
