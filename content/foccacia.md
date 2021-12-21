@@ -9,7 +9,7 @@ title = "Focaccia"
 +++
 ## Description
 
-Almost no-knead foccacia, developed by David based on Grandma Giordano's recipe (that wasn't written down)
+Almost no-knead focaccia, developed by David based on Grandma Giordano's recipe (that wasn't written down)
 
 ## Ingredients
 
