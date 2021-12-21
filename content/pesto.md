@@ -3,7 +3,7 @@ categories = ["Sauces"]
 cookTime = ""
 prepTime = ""
 servings = ""
-tags = ["Northern Italy"]
+tags = ["Needs Work", "Northern Italy"]
 title = "Pesto"
 
 +++
