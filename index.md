@@ -1606,7 +1606,7 @@ Dried cod (stockfish) with potatoes.
 * 1 can petite diced tomatoes
 * 1 can water or vegetable stock
 * 2 T. Capers
-* 2 T. Vinegar
+* 2 T. red wine vinegar
 * 4 oz black and/ or green sliced olives
 * Parsley, chopped fine
 
