@@ -2448,7 +2448,32 @@ NEED RECIPE
 Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/](https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/ "Quick and Easy Black Bean Enchilada Quinoa")
 
 ## Red Lentil Soup 
-NEED RECIPE - DAVID
+### Description
+
+Warm Lentil soup fixes all ailments.
+
+### Ingredients
+
+* 1 cup red lentils
+* 2 carrots
+* 1 onion
+* 1 box of vegetable broth
+* 2 tsp cumin
+* 2 tsp tumeric
+* 1/2 tsp salt
+* (hot pepper if you like hot pepper)
+
+### Directions
+
+* rinse lentils
+* dice vegetables
+* cook onion until soft
+* add vegetables and cook for a few minutes
+* add spices and cook until fragrant
+* Add rinsed lentils, stir
+* add broth
+* Bring everything to a boil then simmer for \~1 hour
+* Grind using immersion blender or leave chunky
 
 ## Wedding Soup 
 ### Description
