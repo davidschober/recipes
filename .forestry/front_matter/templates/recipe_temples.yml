@@ -22,6 +22,7 @@ fields:
     - Northern Italy
     - Southern Italy
     - Thanksgiving
+    - Mardi Gras
 - type: list
   name: categories
   label: categories
