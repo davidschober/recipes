@@ -1631,7 +1631,7 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 * Add salt, pepper, rosemary and shrimp
 * Cook until shrimp is pink
 * Add this to cooked pasta and serve
-* Top with basil
+* Top with basil or parsley
 
 ## Frizzuli 
 ### Ingredients
