@@ -4,7 +4,7 @@ cookTime = ""
 photo = []
 prepTime = ""
 servings = ""
-tags = []
+tags = ["Mardi Gras"]
 title = "Pat O'Brien's Hurricane"
 
 +++
