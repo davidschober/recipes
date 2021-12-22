@@ -1456,7 +1456,7 @@ title = "Ravioli"
 
 # Sauces
 
-## Emeril's Essense 
+## Emeril's Essence Creole Seasoning 
 ### Description
 
 Creole Seasoning (also referred to as Bayou Blast)
