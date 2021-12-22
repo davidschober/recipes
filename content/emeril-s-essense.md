@@ -4,7 +4,7 @@ cookTime = ""
 prepTime = ""
 servings = ""
 tags = []
-title = "Emeril's Essense"
+title = "Emeril's Essence Creole Seasoning"
 
 +++
 ## Description
