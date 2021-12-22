@@ -3,7 +3,7 @@ categories = ["Main Dishes", "Appetizers"]
 cookTime = "12-15 min"
 prepTime = ""
 servings = ""
-tags = []
+tags = ["Mardi Gras"]
 title = "Creole Shrimp Skewers"
 
 +++
