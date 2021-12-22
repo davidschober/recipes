@@ -1,5 +1,5 @@
 +++
-categories = ["Main Dishes"]
+categories = ["Pasta", "Main Dishes"]
 cookTime = "40 min"
 photo = []
 prepTime = ""
