@@ -561,6 +561,33 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 * Add cinnamon to taste
 * Pan fry as normal pancakes
 
+## Peach Cobbler 
+
+### Ingredients
+
+* 1/4-1/2 c. sugar
+* 1 c. Bisquick
+* 1 egg
+* 1/4 c. milk or water
+* 1 can peaches
+
+Topping:
+
+* 2 T. Bisquick
+* 1 T. butter
+* 2 T. brown sugar
+
+### Directions
+
+* Mix dough
+* Add peach slices
+* Add topping
+* Bake 350, 20-30 minutes
+
+### Notes
+
+This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, like blueberries.
+
 
 # Cookies
 
@@ -1012,6 +1039,33 @@ Questions: why is 2 c sugar followed by (1 cup)?
 
 # Directions
 * Blend until smooth
+
+## Peach Cobbler 
+
+### Ingredients
+
+* 1/4-1/2 c. sugar
+* 1 c. Bisquick
+* 1 egg
+* 1/4 c. milk or water
+* 1 can peaches
+
+Topping:
+
+* 2 T. Bisquick
+* 1 T. butter
+* 2 T. brown sugar
+
+### Directions
+
+* Mix dough
+* Add peach slices
+* Add topping
+* Bake 350, 20-30 minutes
+
+### Notes
+
+This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, like blueberries.
 
 ## Tiramisu 
 ### Ingredients
