@@ -3,7 +3,7 @@ categories = ["Main Dishes"]
 cookTime = ""
 prepTime = ""
 servings = ""
-tags = []
+tags = ["Mardi Gras"]
 title = "Jambalaya"
 
 +++
