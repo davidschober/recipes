@@ -70,6 +70,9 @@ Directions
 * Preheat a cast iron pan in 450 oven
 * Pour 2+T. Oil in pan, add the batter and bake for 5-10min
 
+## Fried Zucchini Flowers 
+NEED RECIPE
+
 ## Hummus 
 ### Ingredients
 
