@@ -1177,13 +1177,15 @@ Questions: why is 2 c sugar followed by (1 cup)?
 
 ## Nonna's Chocolate Pudding 
 ### Ingredients
+
 * 1 Ripe avocado
 * 2 t Cocoa powder
 * 1 t honey or agave nectar
 * 1/2 t water
 
 # Directions
-* Blend until smooth
+
+* Blend until smooth in food processor
 
 ## Peach Cobbler 
 
