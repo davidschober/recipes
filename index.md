@@ -1004,6 +1004,38 @@ Mardi Gras dessert
 * Make a cut down the middle of each cencio (so as to obtain two strips joined at the ends), twist the side strips without breaking them, fry them in hot oil or lard, and dust them with confectioners sugar when they’re cool.
 * This recipe, Artusi says, is sufficient to make a platterful. He finishes up with, "Should the dough have formed a crust while it sat, knead it again before you roll it out."
 
+## Cherry Cheesecake 
+### Ingredients
+
+* 2 8oz pkg cream cheese
+* 3/4 c. sugar
+* 2 T. flour
+* 1/2 t. salt
+* 3 eggs, slightly beaten
+* 1 c. sour cream
+* 1/4 c. lemon juice
+* 1 t. vanilla
+* 1 can (21 oz) cherry pie filling
+
+### Directions
+
+* Preheat oven to 350
+* In 8-9 inch square pan, mash cream cheese with a fork until very soft
+* Add sugar, flour, salt and blend well
+* Add remaining ingredients except pie filling
+* Mix briskly with fork until thoroughly blended
+* Scrape down sides of pan
+* Bake 350 degrees, 45 minutes or until pick inserted in center comes out clean
+* Cool in pan on rack
+* Spread with pie filling
+* Chill
+
+### Notes
+
+From Woman's Day 1981
+
+Note from Stephanie: I don't remember this at all. Mom says she used to make it.
+
 ## Chestnut Cake 
 ### Ingredients
 
