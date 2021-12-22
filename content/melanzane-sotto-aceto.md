@@ -3,7 +3,7 @@ categories = ["Appetizers"]
 cookTime = ""
 prepTime = ""
 servings = ""
-tags = ["Needs Work", "Southern Italy"]
+tags = ["Needs Work"]
 title = "Melanzane sotto Aceto"
 
 +++
