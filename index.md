@@ -162,6 +162,26 @@ Directions
 * Preparare nel frattempo il condimento: cuocere dolcemente in olio extra vergine di oliva le cipolle tagliate sottili; quando iniziano ad appassire, unire i pomodori pelati e spezzettati, far cuocere fino a completa evaporazione dell'acqua, aggiungere eventualmente un pochino di sale. Dissalare e diliscare le acciughe, lavarle e asciugarle adagiandole su carta da cucina.
 * Stendere la pasta aiutandosi con le mani leggermente unte, senza toglierla dalla teglia. Lasciarla di nuovo lievitare altri 45 minuti. Distribuire la salsa in maniera uniforme, aggiungere le acciughe, i capperi già sciacquati e asciutti, le olive e una spolverata di origano; cospargere di olio extravergine di oliva e infornare a 250° per circa 20/30 minuti, fino a che il bordo della pizza non sarà dorato.
 
+## Melanzane sotto Aceto 
+### Description
+
+Eggplant in vinegar
+
+### Ingredients
+
+### Directions
+
+* Peel, slice, and julienne eggplant
+* Salt and leave for 24 hours
+* Squeeze out liquid
+* Boil 1/2 water, 1/2 vinegar
+* Put eggplants in water/vinegar mix for 24 hours
+* Squeeze
+* Baste them with oil, garlic, chopped celery, red pepper, oregano, pepper
+* Fill jars
+
+Questions: What type of vinegar - white? Baste them?? Are we covering in oil? Garlic - cloves, minced? Red pepper - meaning flakes, yes? Pepper - black pepper? Peppercorns, or ground pepper?
+
 ## Pickled Mushrooms 
 ### Ingredients
 
