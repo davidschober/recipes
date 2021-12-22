@@ -19,6 +19,21 @@
 * Aggiungete nel composto che si sarà addensato i semini di finocchietto, due cucchiai di olio e incorporate bene mescolando con un cucchiaio di legno. Ungete una teglia rettangolare (25 x 35) e antiaderente con l'olio rimasto, e versatevi la crema di farina di castagne ottenuta. Terminate distribuendo uniformemente sulla superficie l'uvetta scolata e strizzata, e poi i pinoli.
 * Cuocete nel forno preriscaldato a 180°C per circa un’ora. Il castagnaccio è pronto quando si stacca dalle pareti della teglia e la parte superiore assume un bel colore dorato, con le caratteristiche crepe
 
+## Creole Shrimp Skewers 
+### Ingredients
+
+* 2 tablespoons Creole Seasoning
+* 6 tablespoons unsalted butter, melted
+* 1 pound medium shrimp (30/40) peeled and deveined
+
+###   
+Directions
+
+* Preheat the oven to 425 degrees F.
+* Combine the Creole Seasoning and melted butter in a medium bowl. Whisk to combine. Place 3 tablespoons of this mixture in a shallow dish and reserve the remaining mixture for later.
+* Skewer the shrimp on small 6 inch skewers, using 2-3 shrimp per skewer. Lay the skewers in the butter mixture in the shallow dish and coat both sides with the seasoning. Place the skewers on a parchment-lined baking sheet. Once all the shrimp have been skewered, place the baking sheet in the oven and let the shrimp bake for about 12-15 minutes until opaque throughout. Remove the skewers and place on a platter for serving.
+* Serve immediately with the remaining melted Creole butter and some crusty bread to dip in the butter.
+
 ## Crispi 
 ### Ingredients
 
@@ -1014,6 +1029,21 @@ Grandpa Bellino's wine; Rosa's handwritten notes
 
 
 # Main Dishes
+
+## Creole Shrimp Skewers 
+### Ingredients
+
+* 2 tablespoons Creole Seasoning
+* 6 tablespoons unsalted butter, melted
+* 1 pound medium shrimp (30/40) peeled and deveined
+
+###   
+Directions
+
+* Preheat the oven to 425 degrees F.
+* Combine the Creole Seasoning and melted butter in a medium bowl. Whisk to combine. Place 3 tablespoons of this mixture in a shallow dish and reserve the remaining mixture for later.
+* Skewer the shrimp on small 6 inch skewers, using 2-3 shrimp per skewer. Lay the skewers in the butter mixture in the shallow dish and coat both sides with the seasoning. Place the skewers on a parchment-lined baking sheet. Once all the shrimp have been skewered, place the baking sheet in the oven and let the shrimp bake for about 12-15 minutes until opaque throughout. Remove the skewers and place on a platter for serving.
+* Serve immediately with the remaining melted Creole butter and some crusty bread to dip in the butter.
 
 ## Easy Lasagne 
 ### Ingredients
