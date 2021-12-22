@@ -891,6 +891,8 @@ Rosa’s notes: Mom always made these for Christmas and everybody thought that t
 * Press almonds on top
 * Bake 30min. at 350
 
+Questions: why is 2 c sugar followed by (1 cup)?
+
 ## Nonna's Chocolate Pudding 
 ### Ingredients
 * 1 Ripe avocado
