@@ -688,6 +688,18 @@ Biscotti
 * Remove the cantuccini from the oven and let them cool on a wire rack.
 * Store them in a sealed container for several weeks.
 
+## Cappuccino Biscotti 
+### Ingredients
+
+* 2 cups unbleached all-purpose flour
+* 1 cup sugar
+* 1/2 tsp. baking soda
+* 1/2 tsp. baking powder
+* 1/2 tsp. sal
+* 
+
+### Directions
+
 ## Jan Hagel 
 ### Description
 
