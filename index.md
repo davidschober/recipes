@@ -2327,4 +2327,9 @@ NEED RECIPE
 
 Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/](https://www.simplehealthykitchen.com/quick-easy-black-bean-enchilada-quinoa/ "Quick and Easy Black Bean Enchilada Quinoa")
 
+## Wedding Soup 
+### Description
+
+Minestra con polpettine di pollo (Is this the wedding soup?)
+
 
