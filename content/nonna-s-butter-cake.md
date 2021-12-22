@@ -1,8 +1,8 @@
 +++
 categories = ["Desserts"]
-cookTime = ""
+cookTime = "30 min."
 prepTime = ""
-servings = "30 min."
+servings = ""
 tags = ["Needs Work"]
 title = "Nonna's Butter Cake"
 
