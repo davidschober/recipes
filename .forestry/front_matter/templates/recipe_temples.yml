@@ -53,6 +53,7 @@ fields:
   label: servings
 pages:
 - content/amaretti.md
+- content/baguette-no-knead.md
 - content/boulevardier.md
 - content/brandacujun.md
 - content/brazilian-stew.md
