@@ -2282,6 +2282,9 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 * Place 1 slice Italian bread topped with Swiss cheese in a bowl
 * Top with soup
 
+## Minestrone 
+NEED RECIPE
+
 ## One Pot Enchilada 
 ### Ingredients
 
