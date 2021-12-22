@@ -4,7 +4,7 @@ cookTime = ""
 prepTime = ""
 servings = ""
 tags = []
-title = "Baguette - no knead"
+title = "David's No Knead Baguette"
 
 +++
 ## Description
