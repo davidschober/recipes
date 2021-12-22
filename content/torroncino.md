@@ -12,9 +12,11 @@ title = "Torroncino"
 
 Rosa’s notes: This recipe comes from Adriana Scalora a former student of mine at LTHS (1979-2003). I’ve made them for Christmas ever since she gave me the recipe in the late 80s.
 
+Makes about 6 dozen.
+
 ## Ingredients
 
-* 1/4  c. honey				
+* 1/4  c. honey
 * 1 ½ c. sugar
 * 1 lb. Skinless slivered almonds, toasted
 * 2 T. sesame seeds, toasted
