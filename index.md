@@ -2458,7 +2458,7 @@ Warm Lentil soup fixes all ailments.
 * 2 carrots
 * 1 onion
 * 1 box of vegetable broth
-* 2 tsp cumin
+* 1 tsp cumin
 * 2 tsp tumeric
 * 1/2 tsp salt
 * (hot pepper if you like hot pepper)
