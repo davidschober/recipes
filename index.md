@@ -961,14 +961,14 @@ Makes about 6 dozen.
 
 FILLING
 
+* 1½ cups heavy cream, chilled
+* ½ cup confectioners' sugar
 * ¼ cup unsweetened cocoa
 * 2 teaspoons instant coffee
 * 1 teaspoon vanilla extract
-* 1½ cups heavy cream, chilled
-* ½ cup confectioners' sugar
 * Candied cherries, angelica
 
-Note: Let egg whites warm to room temperature -about 1 hour. You may make the Chocolate Log a week ahead, then freeze it, wrapped in foil. Let stand at room temperature to thaw for about 1 hour before serving.
+Note: Let egg whites warm to room temperature, about 1 hour. You may make the Chocolate Log a week ahead, then freeze it, wrapped in foil. Let stand at room temperature to thaw for about 1 hour before serving.
 
 ### Directions
 
