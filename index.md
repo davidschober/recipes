@@ -1298,9 +1298,14 @@ Topping:
 This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, like blueberries.
 
 ## Roasted Chestnuts 
-400 degrees til they’re done
+### Ingredients 
 
-stir once
+Raw chestnuts in shell
+
+### Directions
+
+* Score the chestnuts with a knife. Slit
+* 400 degrees til they’re done, stirring once
 
 ## Tiramisu 
 ### Ingredients
