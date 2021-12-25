@@ -1304,8 +1304,9 @@ Raw chestnuts in shell
 
 ### Directions
 
-* Score the chestnuts with a knife. Slit
-* 400 degrees til they’re done, stirring once
+* Score/slit the chestnuts with a knife.
+* 400 degrees til they’re done, stirring once, about 20-25 min
+* done= slightly toasted, a little fragrant, starting to open
 
 ## Tiramisu 
 ### Ingredients
