@@ -7,6 +7,11 @@ tags = ["Christmas"]
 title = "Roasted Chestnuts"
 
 +++
-400 degrees til they’re done
+## Ingredients 
 
-stir once
+Raw chestnuts in shell
+
+## Directions
+
+* Score the chestnuts with a knife. Slit
+* 400 degrees til they’re done, stirring once
