@@ -1300,6 +1300,8 @@ This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, 
 ## Roasted Chestnuts 
 400 degrees til they’re done
 
+stir once
+
 ## Tiramisu 
 ### Ingredients
 
