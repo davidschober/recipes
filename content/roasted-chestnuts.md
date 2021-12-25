@@ -1,6 +1,6 @@
 +++
 categories = ["Desserts"]
-cookTime = ""
+cookTime = "20-25 min"
 prepTime = ""
 servings = ""
 tags = ["Christmas"]
