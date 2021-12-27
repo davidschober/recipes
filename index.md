@@ -1587,7 +1587,7 @@ directions = "* Cook onions in oil until brown\n* Add flour, bouillon cube, and 
 
 NEED RECIPE
 
-## Nonna's Soup 
+## Nonna Soup 
 +++
 categories = ["Soups and Stews"]
 cookTime = "20 min"
@@ -1598,7 +1598,7 @@ notes = "Additions:\n\n* Add 1/4 cup of red/white wine if you have it open.\n* A
 prepTime = "10 min"
 servings = "4-6"
 tags = []
-title = "Nonna's Soup"
+title = "Nonna Soup"
 
 +++
 
