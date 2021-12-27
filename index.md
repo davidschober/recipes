@@ -170,6 +170,22 @@ directions = "* Preheat oven, 350 degrees\n* Mix ricotta with next 7 ingredients
 
 +++
 
+## Stuffed Artichokes 
++++
+categories = ["Appetizers"]
+cookTime = ""
+description = ""
+directions = ""
+ingredients = ""
+notes = ""
+prepTime = ""
+servings = ""
+tags = ["Needs Work"]
+title = "Stuffed Artichokes"
+
++++
+
+
 ## Stuffed Mushrooms 
 +++
 categories = [ "Appetizers",]
