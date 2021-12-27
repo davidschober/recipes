@@ -89,6 +89,7 @@ fields:
       format: markdown
   label: notes
 pages:
+- content/DadsSauce.md
 - content/amaretti.md
 - content/baguette-no-knead.md
 - content/boulevardier.md
