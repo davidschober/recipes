@@ -7,7 +7,7 @@ ingredients = "* 2c. Flour\n* 1c. Butter\n* 2c. Sugar (1 cup)\n* 1 beaten egg\n*
 notes = "Rosa's note: I only use 1 cup of sugar; original recipe calls for 2."
 prepTime = ""
 servings = ""
-tags = ["Needs Work"]
+tags = []
 title = "Nonna's Butter Cake"
 
 +++
