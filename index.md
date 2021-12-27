@@ -1960,7 +1960,7 @@ Spinach and ricotta gnocchi with butter and sage sauce
 
 * no directions included
 
-### Variations
+### Notes
 
 David and Stephanie make this with spaghetti squash; no tuna or lemon. We use kalamata olives.
 
