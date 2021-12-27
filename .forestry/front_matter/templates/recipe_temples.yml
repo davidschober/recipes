@@ -70,6 +70,15 @@ fields:
     schema:
       format: markdown
   label: ingredients
+- name: directions
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: directions
 - name: notes
   type: textarea
   default: ''
