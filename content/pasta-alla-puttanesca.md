@@ -1,6 +1,9 @@
 +++
 categories = ["Pasta"]
 cookTime = ""
+description = ""
+ingredients = ""
+notes = ""
 prepTime = ""
 servings = "2"
 tags = ["Dinner"]
@@ -25,6 +28,6 @@ title = "Pasta alla Puttanesca"
 
 * no directions included
 
-## Variations
+## Notes
 
 David and Stephanie make this with spaghetti squash; no tuna or lemon. We use kalamata olives.
