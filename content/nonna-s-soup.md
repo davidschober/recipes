@@ -8,6 +8,6 @@ notes = "Additions:\n\n* Add 1/4 cup of red/white wine if you have it open.\n* A
 prepTime = "10 min"
 servings = "4-6"
 tags = []
-title = "Nonna's Soup"
+title = "Nonna Soup"
 
 +++
