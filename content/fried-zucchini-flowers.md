@@ -1,10 +1,11 @@
 +++
-categories = ["Appetizers"]
+categories = [ "Appetizers",]
 cookTime = ""
 prepTime = ""
 servings = ""
-tags = ["Needs Work"]
+tags = [ "Needs Work",]
 title = "Fried Zucchini Flowers"
 
 +++
+
 NEED RECIPE

@@ -1,10 +1,11 @@
 +++
-categories = ["Soups and Stews"]
+categories = [ "Soups and Stews",]
 cookTime = ""
 prepTime = ""
 servings = ""
-tags = ["Needs Work"]
+tags = [ "Needs Work",]
 title = "Minestrone"
 
 +++
+
 NEED RECIPE

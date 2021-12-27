@@ -1,35 +1,12 @@
 +++
-categories = ["Soups and Stews", "Soups and Stews"]
+categories = [ "Soups and Stews", "Soups and Stews",]
 cookTime = "1 hour"
 prepTime = "10 min"
 servings = "4"
-tags = ["Dinner"]
+tags = [ "Dinner",]
 title = "Red Lentil Soup"
+description = "Warm Lentil soup fixes all ailments."
+ingredients = "* 1 cup red lentils\n* 2 carrots\n* 1 onion\n* 1 box of vegetable broth (4 cups)\n* 1 tsp cumin\n* 2 tsp turmeric\n* 1/2 tsp salt\n* (hot pepper if you like hot pepper)"
+directions = "* rinse lentils\n* dice vegetables\n* cook onion until soft\n* add vegetables and cook for a few minutes\n* add spices and cook until fragrant\n* Add rinsed lentils, stir\n* add broth\n* Bring everything to a boil then simmer for \\~1 hour\n* Grind using immersion blender or leave chunky"
 
 +++
-## Description
-
-Warm Lentil soup fixes all ailments.
-
-## Ingredients
-
-* 1 cup red lentils
-* 2 carrots
-* 1 onion
-* 1 box of vegetable broth (4 cups)
-* 1 tsp cumin
-* 2 tsp turmeric
-* 1/2 tsp salt
-* (hot pepper if you like hot pepper)
-
-## Directions
-
-* rinse lentils
-* dice vegetables
-* cook onion until soft
-* add vegetables and cook for a few minutes
-* add spices and cook until fragrant
-* Add rinsed lentils, stir
-* add broth
-* Bring everything to a boil then simmer for \~1 hour
-* Grind using immersion blender or leave chunky

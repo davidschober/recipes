@@ -1,12 +1,10 @@
 +++
-categories = ["Soups and Stews"]
+categories = [ "Soups and Stews",]
 cookTime = ""
 prepTime = ""
 servings = ""
-tags = ["Southern Italy", "Needs Work"]
+tags = [ "Southern Italy", "Needs Work",]
 title = "Wedding Soup"
+description = "Minestra con polpettine di pollo (Is this the wedding soup?)"
 
 +++
-## Description
-
-Minestra con polpettine di pollo (Is this the wedding soup?)

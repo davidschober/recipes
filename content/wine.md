@@ -1,25 +1,11 @@
 +++
-categories = ["Drinks"]
+categories = [ "Drinks",]
 cookTime = "6 months"
 prepTime = ""
 servings = "26 gallons"
-tags = ["Needs Work"]
+tags = [ "Needs Work",]
 title = "Grandpa's Wine"
+description = "Grandpa Bellino's wine; Rosa's handwritten notes"
+directions = "* 10 cases muscat\n* 2 cases zinfandel\n* crush\n* place in press\n* strain in barrel\n* leave 5\" from top\n* Continue filling with about 1 gal.\n* After it boils (1 month)\n* Cork it (40 days later)\n* After 3-6 months place in bottles"
 
 +++
-## Description
-
-Grandpa Bellino's wine; Rosa's handwritten notes
-
-## Directions
-
-* 10 cases muscat
-* 2 cases zinfandel
-* crush
-* place in press
-* strain in barrel
-* leave 5" from top
-* Continue filling with about 1 gal.
-* After it boils (1 month)
-* Cork it (40 days later)
-* After 3-6 months place in bottles
