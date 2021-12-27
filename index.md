@@ -1210,8 +1210,7 @@ Assembly
 * 1.7 oz flaked almonds
 * Icing sugar for garnish
 
-###   
-Directions
+### Directions
 
 * Pre-heat oven to 375° F.
 * Grease an 8-inch springform pan and line the bottom with a round of parchment paper. Set aside.
