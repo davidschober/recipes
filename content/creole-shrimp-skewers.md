@@ -13,8 +13,7 @@ title = "Creole Shrimp Skewers"
 * 6 tablespoons unsalted butter, melted
 * 1 pound medium shrimp (30/40) peeled and deveined
 
-##   
-Directions
+## Directions
 
 * Preheat the oven to 425 degrees F.
 * Combine the Creole Seasoning and melted butter in a medium bowl. Whisk to combine. Place 3 tablespoons of this mixture in a shallow dish and reserve the remaining mixture for later.
