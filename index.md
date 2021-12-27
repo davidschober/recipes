@@ -89,7 +89,7 @@ NEED RECIPE
 * Mix in food processor
 * Add water to thin if necessary
 
-### Variations
+### Notes
 
 * You can use just olive oil, just tahini, or a mix
 * Add roasted red peppers
