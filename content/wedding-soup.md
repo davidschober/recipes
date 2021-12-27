@@ -7,7 +7,7 @@ ingredients = "For soup:\n\n* 1medium onion, chopped\n* 2 stalks of celery, chop
 notes = ""
 prepTime = ""
 servings = ""
-tags = ["Southern Italy", "Needs Work"]
+tags = ["Southern Italy"]
 title = "Wedding Soup"
 
 +++
