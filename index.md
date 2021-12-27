@@ -1722,8 +1722,7 @@ Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/qu
 * 1 tablespoon fresh marjoram or oregano
 * 2 to 3 tablespoons red-wine vinegar
 
-###   
-Directions
+### Directions
 
 Preheat oven to 350 degrees. Place tomatoes and juices on a rimmed baking sheet and use your hands to break tomatoes into 3/4-inch pieces. Drizzle with 2 tablespoons oil and bake until thickened, 30 minutes, stirring every 10 minutes.
 
