@@ -1,29 +1,11 @@
 +++
-categories = ["Desserts"]
+categories = [ "Desserts",]
 cookTime = "30 min."
 prepTime = ""
 servings = ""
-tags = ["Needs Work"]
+tags = [ "Needs Work",]
 title = "Nonna's Butter Cake"
+ingredients = "* 2c. Flour\n* 1c. Butter\n* 2c. Sugar (1 cup)\n* 1 beaten egg\n* Dash of salt\n* Sliced almonds"
+directions = "* Keep half the beaten egg for top\n* Knead all ingredients into smooth paste\n* Butter a pie pan or spring form pan\n* Press dough into it\n* Brush with rest of beaten egg\n* Press almonds on top\n* Bake 30min. at 350\n\nQuestions: why is 2 c sugar followed by (1 cup)?"
 
 +++
-## Ingredients
-
-* 2c. Flour
-* 1c. Butter
-* 2c. Sugar (1 cup)
-* 1 beaten egg
-* Dash of salt
-* Sliced almonds
-
-## Directions
-
-* Keep half the beaten egg for top
-* Knead all ingredients into smooth paste
-* Butter a pie pan or spring form pan
-* Press dough into it
-* Brush with rest of beaten egg
-* Press almonds on top
-* Bake 30min. at 350
-
-Questions: why is 2 c sugar followed by (1 cup)?

@@ -1,17 +1,12 @@
 +++
-categories = ["Sides"]
+categories = [ "Sides",]
 cookTime = ""
 photo = []
 prepTime = ""
 servings = ""
-tags = ["Thanksgiving"]
+tags = [ "Thanksgiving",]
 title = "Cranberry Relish"
+ingredients = "- 1lb. Cranberries\n- 1 orange, diced\n- 1/3c. Sugar"
+directions = "- Place in processor and process until well chopped"
 
 +++
-## Ingredients
-- 1lb. Cranberries
-- 1 orange, diced
-- 1/3c. Sugar
-
-## Directions
-- Place in processor and process until well chopped
