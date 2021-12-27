@@ -1,0 +1,5 @@
+{{ $imagePath := (printf "/assets/%s.jpg" (.|urlize)) }}
+{{if (fileExists $imagePath) -}}
+{{- $image := resources.Get (printf "%s.jpg" (.|urlize)) -}}
+<img src="{{ ($image.Fit "500x500 q75").RelPermalink }}" class="float-right"/>
+{{- end }}

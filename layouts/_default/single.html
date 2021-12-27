@@ -1,14 +1,6 @@
 {{ define "main" }}
 
-{{ $imagePath := (printf "/assets/%s.jpg" (.Page.Title|urlize)) }}
-
-{{if (fileExists $imagePath) -}}
-
-{{- $image := resources.Get (printf "%s.jpg" (.Page.Title|urlize)) -}}
-
-<img src="{{ ($image.Fit "500x500 q75").RelPermalink }}" class="float-right"/>
-
-{{- end }}
+{{ partial "single-image.html" .Page.Title }}
 
 <h1>{{ .Title }}</h1>
 

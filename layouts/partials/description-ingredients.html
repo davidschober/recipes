@@ -1,8 +1,6 @@
 {{ $Params := . }}
-
-{{range (slice "description" "ingredients" "directions" "notes" )}}
-{{$header := . }}
-{{ with $Params.Get . }}
+{{range $header := (slice "description" "ingredients" "directions" "notes" )}}
+{{ with $Params.Get $header }}
 <h2>{{ $header | title }}</h2>
 {{ . | markdownify }}
 {{ end }}
