@@ -4,7 +4,11 @@
 
 ## Carciofi Sott'olio
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ## Castagnaccio
+
+Prep Time:- | Cook Time : 1 hour | Servings: - |
 
 ### Ingredients
 
@@ -26,6 +30,8 @@
 
 ## Creole Shrimp Skewers
 
+Prep Time:- | Cook Time : 12-15 min | Servings: - |
+
 ### Ingredients
 
 * 2 tablespoons Creole Seasoning
@@ -40,6 +46,8 @@
 * Serve immediately with the remaining melted Creole butter and some crusty bread to dip in the butter.
 
 ## Crispi
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -57,6 +65,8 @@
 - Eat warm topped with either salt or sugar.
 
 ## Farinata
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -76,6 +86,8 @@
 
 ## Fried Zucchini Flowers
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * Zucchini flowers, stamens removed
@@ -86,6 +98,8 @@
 David and Stephanie's note: This is the only reason we grow zucchini
 
 ## Hummus
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -111,6 +125,8 @@ David and Stephanie's note: This is the only reason we grow zucchini
 
 ## Insalata Russa
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Description
 
 Grandma Giordano made this for special occasions, especially Easter.
@@ -127,6 +143,8 @@ Grandma Giordano made this for special occasions, especially Easter.
 Mix all together. Shape into oval and decorate with Olives, gherkins, capers, anchovies
 
 ## La Sardenaira
+
+Prep Time:- | Cook Time : 15 min | Servings: - |
 
 ### Ingredients
 
@@ -180,6 +198,8 @@ Directions
 
 ## Melanzane sotto Aceto
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Description
 
 Eggplant in vinegar
@@ -198,6 +218,8 @@ Eggplant in vinegar
 Questions: What type of vinegar - white? Baste them?? Are we covering in oil? Garlic - cloves, minced? Red pepper - meaning flakes, yes? Pepper - black pepper? Peppercorns, or ground pepper?
 
 ## Pickled Mushrooms
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -225,6 +247,8 @@ Questions:
 
 ## Pitte ’N Chiuse
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - 2 C. Flour
@@ -245,6 +269,8 @@ Questions:
 - Bake for 30 min in 400 degree oven
 
 ## Spinach Ricotta Pie
+
+Prep Time:- | Cook Time : 50 min | Servings: - |
 
 ### Ingredients
 
@@ -268,7 +294,11 @@ Questions:
 
 ## Stuffed Artichokes
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ## Stuffed Mushrooms
+
+Prep Time:- | Cook Time : 20-30 min | Servings: - |
 
 ### Ingredients
 
@@ -293,6 +323,8 @@ Questions:
 **Shortcut: Add a cup of spinach artichoke Parmesan spread to the sautéed stems. Add 1/4 c breadcrumbs and stuff mushrooms. Bake as above**
 
 ## Stuffed Onions
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -323,6 +355,8 @@ Cipolle Ripiene
 * Sprinkle on the top some breadcrumbs and drizzle with some extra-virgin olive. Bake for about 30 minutes or until the surface is golden. Let it cool down and serve warm or cool (the day after they are even better!).
 
 ## Sweet and Spicy Pecans
+
+Prep Time:15 min | Cook Time : 20 min | Servings: 8 |
 
 ### Ingredients
 
@@ -357,6 +391,8 @@ Cipolle Ripiene
 
 ## Torta di Patate
 
+Prep Time:- | Cook Time : 45 min | Servings: - |
+
 ### Description
 
 Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the crust from Torta verde
@@ -381,6 +417,8 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 * (another version says 350 for 25 min)
 
 ## Torta Verde
+
+Prep Time:- | Cook Time : 35-40 min | Servings: - |
 
 ### Ingredients
 
@@ -430,6 +468,8 @@ For the dough, start with a mound of flour with a hole in middle. Add salt, add 
 
 ## Banana Bread - Gluten-free
 
+Prep Time:- | Cook Time : 60-75 min | Servings: 10 |
+
 ### Ingredients
 
 * 3 medium ripe bananas (3 bananas yield \~1 1/2 cups)
@@ -464,6 +504,8 @@ Originally from Minimalist Baker: [https://minimalistbaker.com/one-bowl-gluten-f
 
 ## Crispi
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - 2-4 cups of flour 
@@ -480,6 +522,8 @@ Originally from Minimalist Baker: [https://minimalistbaker.com/one-bowl-gluten-f
 - Eat warm topped with either salt or sugar.
 
 ## David's No Knead Baguette
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -504,6 +548,8 @@ David's No Knead Baguette
 * 475 until done
 
 ## David's Pizza
+
+Prep Time:- | Cook Time : 6-10 min | Servings: - |
 
 ### Ingredients
 
@@ -551,6 +597,8 @@ Topping ideas:
 
 ## Focaccia
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Description
 
 Almost no-knead focaccia, developed by David based on Grandma Giordano's recipe (that wasn't written down)
@@ -582,6 +630,8 @@ Almost no-knead focaccia, developed by David based on Grandma Giordano's recipe 
 * Bake 20-25 minutes
 
 ## La Sardenaira
+
+Prep Time:- | Cook Time : 15 min | Servings: - |
 
 ### Ingredients
 
@@ -635,6 +685,8 @@ Directions
 
 ## Pupuwignognuwu - Easter Babies
 
+Prep Time:- | Cook Time : 18-20 minutes | Servings: - |
+
 ### Description
 
 Easter babies
@@ -669,6 +721,8 @@ Original:
 
 ## Taralli
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - 1 cup flour 120 grams
@@ -687,6 +741,8 @@ Original:
 - Bake for approximately 20-25 minutes or until golden.
 
 ## Torta di Patate
+
+Prep Time:- | Cook Time : 45 min | Servings: - |
 
 ### Description
 
@@ -715,6 +771,8 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 
 ## Nonna Pancakes
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 1 egg
@@ -728,6 +786,8 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 * Pan fry as normal pancakes
 
 ## Peach Cobbler
+
+Prep Time:- | Cook Time : 20-30 min | Servings: - |
 
 ### Ingredients
 
@@ -756,6 +816,8 @@ This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, 
 
 ## Whole Wheat Pancakes
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 1 banana
@@ -775,6 +837,8 @@ This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, 
 # Cookies
 
 ## Amaretti
+
+Prep Time:- | Cook Time : 25-35 min | Servings: - |
 
 ### Ingredients
 
@@ -798,6 +862,8 @@ This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, 
 
 ## Cannarìculi
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Description
 
 pasta arrotolata della lunghezza di un pollice cotta in olio bollente e ricoperta di miele
@@ -819,6 +885,8 @@ pasta arrotolata della lunghezza di un pollice cotta in olio bollente e ricopert
 * Roll in honey when still hot
 
 ## Cantuccini
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -852,6 +920,8 @@ Biscotti
 * Store them in a sealed container for several weeks.
 
 ## Cappuccino Biscotti
+
+Prep Time:- | Cook Time : 45 min | Servings: - |
 
 ### Ingredients
 
@@ -894,6 +964,8 @@ Stored in an airtight container, these will keep for an extended time.
 
 ## Jan Hagel
 
+Prep Time:- | Cook Time : 18-20 minutes | Servings: - |
+
 ### Description
 
 Rosa’s notes: Mom always made these for Christmas and everybody thought that they were Italian cookies, but I had found this recipe in a magazine when I was in high school and we always made them together. It’s a Swedish (or maybe Dutch) cookie.​​
@@ -920,6 +992,8 @@ Rosa’s notes: Mom always made these for Christmas and everybody thought that t
   ​​​
 
 ## Peanut Butter Blossoms
+
+Prep Time:30 min | Cook Time : 10-12 min | Servings: 80 cookies |
 
 ### Ingredients
 
@@ -950,6 +1024,8 @@ From: [https://www.mybakingaddiction.com/peanut-butter-blossoms/](https://www.my
 
 ## Pinoli
 
+Prep Time:- | Cook Time : 18-20 minutes | Servings: - |
+
 ### Ingredients
 
 * 8oz almond paste
@@ -973,6 +1049,8 @@ Questions:
 
 ## Rosette
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 1 1/2 c. flour
@@ -989,6 +1067,8 @@ Questions:
 **QUESTIONS**: how much honey? what type of nuts? What's a rosette - a spiral? Do we have a pic?
 
 ## Torroncino
+
+Prep Time:- | Cook Time : - | Servings: about 6 dozen |
 
 ### Description
 
@@ -1016,6 +1096,8 @@ Makes about 6 dozen.
 
 ## Walnut Wedding Cookies
 
+Prep Time:- | Cook Time : - | Servings: 2 dozen |
+
 ### Ingredients
 
 * 1 cup (2 sticks) unsalted butter, room temp
@@ -1038,6 +1120,8 @@ Makes about 6 dozen.
 * Roll again
 
 ## ‘Ncicirata
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -1072,6 +1156,8 @@ Makes about 6 dozen.
 # Desserts
 
 ## Buche de Noel
+
+Prep Time:- | Cook Time : - | Servings: 10 |
 
 ### Description
 
@@ -1111,6 +1197,8 @@ Note: Let egg whites warm to room temperature, about 1 hour. You may make the Ch
 
 ## Cantuccini
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Description
 
 Biscotti
@@ -1144,6 +1232,8 @@ Biscotti
 
 ## Cenci
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Description
 
 Mardi Gras dessert
@@ -1167,6 +1257,8 @@ Mardi Gras dessert
 * This recipe, Artusi says, is sufficient to make a platterful. He finishes up with, "Should the dough have formed a crust while it sat, knead it again before you roll it out."
 
 ## Cherry Cheesecake
+
+Prep Time:- | Cook Time : 45 min | Servings: 9 |
 
 ### Ingredients
 
@@ -1201,6 +1293,8 @@ Note from Stephanie: I don't remember this at all. Mom says she used to make it.
 
 ## Chestnut Cake
 
+Prep Time:- | Cook Time : 35-40 min | Servings: - |
+
 ### Ingredients
 
 * 1 lb. roasted chestnuts (2 cups)
@@ -1224,6 +1318,8 @@ Note from Stephanie: I don't remember this at all. Mom says she used to make it.
 * Note: to toast pine nuts, cook in small ungreased skillet over moderately high heat, tossing frequently until lightly browned, about 2 minutes.
 
 ## Coffee Kranz
+
+Prep Time:- | Cook Time : 30 min | Servings: - |
 
 ### Ingredients
 
@@ -1272,6 +1368,8 @@ Assembly
 
 ## Flourless Chocolate Cake
 
+Prep Time:- | Cook Time : 45 min | Servings: - |
+
 ### Ingredients
 
 * ½ cup water
@@ -1300,6 +1398,8 @@ Assembly
 
 ## Italian Pear Cake
 
+Prep Time:- | Cook Time : 35 min | Servings: - |
+
 ### Ingredients
 
 * 9 Tbsp unsalted butter at room temperature
@@ -1324,6 +1424,8 @@ Assembly
 * Optional Mascarpone, Marsala and Orange Cream: Whisk the grated rind of 1 orange and 2 Tbsp. of freshly squeezed orange juice in a bowl. Add 2 tablespoons sweet Marsala and 100 g (3 1/2 oz.) of mascarpone cheese. Sweeten with icing sugar to taste.
 
 ## Jan Hagel
+
+Prep Time:- | Cook Time : 18-20 minutes | Servings: - |
 
 ### Description
 
@@ -1352,6 +1454,8 @@ Rosa’s notes: Mom always made these for Christmas and everybody thought that t
 
 ## King Cake
 
+Prep Time:- | Cook Time : 30-35 min | Servings: - |
+
 ### Ingredients
 
 * 1 roll frozen bread dough, thawed
@@ -1372,6 +1476,8 @@ Rosa’s notes: Mom always made these for Christmas and everybody thought that t
 * Mix confectioner’s glaze and drizzle over top of cake with a spoon. Immediately sprinkle colored sprinkles over glaze if desired. Allow to sit until glaze hardens.
 
 ## Nonna's Butter Cake
+
+Prep Time:- | Cook Time : 30 min. | Servings: - |
 
 ### Ingredients
 
@@ -1398,6 +1504,8 @@ Rosa's note: I only use 1 cup of sugar; original recipe calls for 2.
 
 ## Nonna's Chocolate Pudding
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 1 Ripe avocado
@@ -1410,6 +1518,8 @@ Rosa's note: I only use 1 cup of sugar; original recipe calls for 2.
 * Blend until smooth in food processor
 
 ## Peach Cobbler
+
+Prep Time:- | Cook Time : 20-30 min | Servings: - |
 
 ### Ingredients
 
@@ -1438,6 +1548,8 @@ This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, 
 
 ## Roasted Chestnuts
 
+Prep Time:- | Cook Time : 20-25 min | Servings: - |
+
 ### Ingredients
 
 Raw chestnuts in shell
@@ -1450,6 +1562,8 @@ Raw chestnuts in shell
 * done= slightly toasted, a little fragrant, starting to open
 
 ## Tiramisu
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -1472,6 +1586,8 @@ Raw chestnuts in shell
 * Shred chocolate over top
 
 ## ‘Ncicirata
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -1507,6 +1623,8 @@ Raw chestnuts in shell
 
 ## Boulevardier
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 1 - 1.25 part Rye Whiskey (Bourbon for sweeter)
@@ -1521,6 +1639,8 @@ Raw chestnuts in shell
 * Garnish with orange peel
 
 ## Grandpa's Wine
+
+Prep Time:- | Cook Time : 6 months | Servings: 26 gallons |
 
 ### Description
 
@@ -1541,6 +1661,8 @@ Grandpa Bellino's wine; Rosa's handwritten notes
 
 ## Negroni (Negroski)
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 1 part Gin (or Vodka)
@@ -1555,6 +1677,8 @@ Grandpa Bellino's wine; Rosa's handwritten notes
 * Garnish with orange peel
 
 ## Pat O'Brien's Hurricane
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -1572,6 +1696,8 @@ Grandpa Bellino's wine; Rosa's handwritten notes
 
 ## Chicken Piccata
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 2 large boneless and skinless chicken breasts, halved horizontally to make 4
@@ -1586,9 +1712,9 @@ Grandpa Bellino's wine; Rosa's handwritten notes
 * 1 tablespoon olive oil
 * 2 teaspoons butter (or oil)
 * 2 tablespoons minced garlic
-* 1¼ cup chicken broth (stock)
-* ½ cup milk (full fat or 2% -- or use reduced fat cream or heavy cream)
-* ⅓ cup finely grated fresh Parmesan cheese
+* 1 1/4 cup chicken broth (stock)
+* 1/2 cup milk (full fat or 2% -- or use reduced fat cream or heavy cream)
+* 1/2 cup finely grated fresh Parmesan cheese
 * 2 tablespoons capers (plus 2 tablespoons extra to garnish)
 * 1 teaspoon cornstarch (cornflour) mixed with 1 tablespoon of water
 * 2-3 tablespoons lemon juice -- juice of 1 lemon (adjust to your tastes)
@@ -1602,6 +1728,8 @@ Grandpa Bellino's wine; Rosa's handwritten notes
 * Pour in the lemon juice, allow to simmer for a further minute to combine. Add the chicken back into the pan to serve, or serve over steamed vegetables, zucchini noodles or cooked pasta with the sauce. Top with extra capers to garnish, lemon slices and parsley.
 
 ## Creole Shrimp Skewers
+
+Prep Time:- | Cook Time : 12-15 min | Servings: - |
 
 ### Ingredients
 
@@ -1617,6 +1745,8 @@ Grandpa Bellino's wine; Rosa's handwritten notes
 * Serve immediately with the remaining melted Creole butter and some crusty bread to dip in the butter.
 
 ## David's Pizza
+
+Prep Time:- | Cook Time : 6-10 min | Servings: - |
 
 ### Ingredients
 
@@ -1664,6 +1794,8 @@ Topping ideas:
 
 ## Easy Lasagne
 
+Prep Time:- | Cook Time : 40 min | Servings: 4 |
+
 ### Ingredients
 
 * 1 pkg chopped frozen spinach-thawed and squeezed of water
@@ -1685,6 +1817,8 @@ Topping ideas:
 
 ## Gnocchi
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - 4 medium potatoes, cooked and riced
@@ -1704,6 +1838,8 @@ Topping ideas:
 - Serve with any sauce
 
 ## Gnocchi Verdi: Spinach and Ricotta Gnocchi
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -1737,6 +1873,8 @@ Spinach and ricotta gnocchi with butter and sage sauce
 
 ## Grandma Bellino's Meatballs
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - 1/2 lb. ground beef
@@ -1756,6 +1894,8 @@ Spinach and ricotta gnocchi with butter and sage sauce
 - Serve over pasta
 
 ## Grandma Bellino's Pizza
+
+Prep Time:- | Cook Time : 12-15 min | Servings: - |
 
 ### Ingredients
 
@@ -1785,6 +1925,8 @@ Spinach and ricotta gnocchi with butter and sage sauce
 * Bake 475 degrees for 12-15 min
 
 ## Jambalaya
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -1818,6 +1960,8 @@ Spinach and ricotta gnocchi with butter and sage sauce
 
 ## Lemon Chicken
 
+Prep Time:- | Cook Time : - | Servings: 2-4 |
+
 ### Ingredients
 
 * 2 chicken breasts sliced crosswise and pounded until thin
@@ -1833,6 +1977,8 @@ Spinach and ricotta gnocchi with butter and sage sauce
 * Serve with pan drippings and a slice of lemon
 
 ## One Pot Enchilada
+
+Prep Time:- | Cook Time : 20 min | Servings: - |
 
 ### Ingredients
 
@@ -1869,6 +2015,8 @@ Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/qu
 
 ## Pasta with Ceci
 
+Prep Time:- | Cook Time : - | Servings: 2-4 |
+
 ### Ingredients
 
 - 2 T. Olive oil
@@ -1889,6 +2037,8 @@ Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/qu
 - Add cooked pasta to the skillet and toss with cheese
 
 ## Ratatouille
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -1913,6 +2063,8 @@ Meanwhile, in a colander, toss eggplant with 1 1/2 teaspoons salt. Let sit 20 mi
 Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring occasionally, until mixture comes to a simmer. Reduce heat to medium-low, partially cover, and cook at a gentle simmer until vegetables are tender but not mushy, 15 minutes. Season to taste with vinegar, salt, and pepper. Remove bay leaf before serving.
 
 ## Risotto ai Funghi Porcini
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -1940,6 +2092,8 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 
 ## Sausage and Peppers
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - 2 T. Olive oil
@@ -1957,6 +2111,8 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 - Add the vegetables, some water, and cook over medium heat until sausages are done
 
 ## Spinach Ricotta Pie
+
+Prep Time:- | Cook Time : 50 min | Servings: - |
 
 ### Ingredients
 
@@ -1980,6 +2136,8 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 
 ## Veal and Peas
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 1-2 lbs. veal shoulder steak, cut into pieces
@@ -2000,6 +2158,8 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 * Add frozen peas and cook until done
 
 ## Veal Roast with Farfalle and Mushrooms
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -2030,7 +2190,11 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 
 ## Christmas Pasta
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ## Easy Lasagne
+
+Prep Time:- | Cook Time : 40 min | Servings: 4 |
 
 ### Ingredients
 
@@ -2052,6 +2216,8 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 * Remove foil and bake 10 more minutes
 
 ## Fettuccine with Shrimp
+
+Prep Time:- | Cook Time : - | Servings: 2-4 |
 
 ### Ingredients
 
@@ -2077,6 +2243,8 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 
 ## Frizzuli
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - flour-one handful per person
@@ -2088,6 +2256,8 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 - None provided
 
 ## Gnocchi
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -2108,6 +2278,8 @@ Add tomatoes, eggplant, zucchini, bay leaf, and marjoram to pot. Cook, stirring 
 - Serve with any sauce
 
 ## Gnocchi Verdi: Spinach and Ricotta Gnocchi
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -2141,6 +2313,8 @@ Spinach and ricotta gnocchi with butter and sage sauce
 
 ## Pasta alla Puttanesca
 
+Prep Time:- | Cook Time : - | Servings: 2 |
+
 ### Ingredients
 
 * 2 T. oil
@@ -2164,6 +2338,8 @@ Spinach and ricotta gnocchi with butter and sage sauce
 David and Stephanie make this with spaghetti squash; no tuna or lemon. We use kalamata olives.
 
 ## Pasta con Panna, Prosciutto, e Piselli
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -2190,6 +2366,8 @@ Pasta with cream, ham/prosciutto, and peas
 
 ## Pasta with Ceci
 
+Prep Time:- | Cook Time : - | Servings: 2-4 |
+
 ### Ingredients
 
 - 2 T. Olive oil
@@ -2211,6 +2389,8 @@ Pasta with cream, ham/prosciutto, and peas
 
 ## Raschiatelli
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - Flour one handful per person
@@ -2221,6 +2401,8 @@ Pasta with cream, ham/prosciutto, and peas
 - None provided
 
 ## Ravioli
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -2288,6 +2470,8 @@ We put the ravioli in the water in batches. Remove with slotted spoon into servi
 
 ## Risotto ai Funghi Porcini
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * T. oil
@@ -2314,9 +2498,13 @@ We put the ravioli in the water in batches. Remove with slotted spoon into servi
 
 ## Tagliatelle Verde
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 # Sauces
 
 ## Emeril's Essence Creole Seasoning
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -2334,6 +2522,8 @@ Creole Seasoning (also referred to as Bayou Blast)
 * 1 tablespoon dried thyme
 
 ## Paolo's sauce
+
+Prep Time:- | Cook Time : 45 min | Servings: - |
 
 ### Ingredients
 
@@ -2360,6 +2550,8 @@ My mom always added butter at the end to give it a more velvety taste. I haven�
 
 ## Pesto
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Description
 
 Pesto can be made and frozen. If frozen do not add cheese or nuts; you can add those later, if you want.
@@ -2382,6 +2574,8 @@ Pesto can be made and frozen. If frozen do not add cheese or nuts; you can add t
 
 ## Sugo di Carne
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 4T. Olive oil
@@ -2403,6 +2597,8 @@ Pesto can be made and frozen. If frozen do not add cheese or nuts; you can add t
 * Remove the meat and serve separately with pasta topped with sauce
 
 ## Taco Seasoning - nightshade free
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -2428,6 +2624,8 @@ Found this recipe when eliminating inflammatory foods. It's really good on shrim
 Originally from Clean Eating Veggie Girl: [https://cleaneatingveggiegirl.com/2016/07/07/homemade-nightshade-free-taco-seasoning/](https://cleaneatingveggiegirl.com/2016/07/07/homemade-nightshade-free-taco-seasoning/ "https://cleaneatingveggiegirl.com/2016/07/07/homemade-nightshade-free-taco-seasoning/")
 
 ## Vegetarian Gravy
+
+Prep Time:10 min | Cook Time : 20 min | Servings: 10 |
 
 ### Ingredients
 
@@ -2457,6 +2655,8 @@ Originally from Clean Eating Veggie Girl: [https://cleaneatingveggiegirl.com/201
 Originally from allrecipes.com
 
 ## Wild Mushroom Ragu
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -2500,6 +2700,8 @@ Serve over pasta or polenta
 
 ## Brandacujun
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Description
 
 Dried cod (stockfish) with potatoes.
@@ -2518,6 +2720,8 @@ Dried cod (stockfish) with potatoes.
 * Cut into pieces
 
 ## Caponata
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -2543,6 +2747,8 @@ Dried cod (stockfish) with potatoes.
 
 ## Castagnaccio
 
+Prep Time:- | Cook Time : 1 hour | Servings: - |
+
 ### Ingredients
 
 * 500 g di farina di castagne  
@@ -2563,6 +2769,8 @@ Dried cod (stockfish) with potatoes.
 
 ## Cranberry Relish
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 - 1lb. Cranberries
@@ -2574,6 +2782,8 @@ Dried cod (stockfish) with potatoes.
 - Place in processor and process until well chopped
 
 ## Cranberry Sauce
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
@@ -2589,6 +2799,8 @@ Dried cod (stockfish) with potatoes.
 - Place all in a saucepan and cover with water. xa0Bring to boil and cook until cranberries pop. Cool and serve.
 
 ## Green Bean Casserole
+
+Prep Time:- | Cook Time : 30 min. | Servings: - |
 
 ### Ingredients
 
@@ -2607,6 +2819,8 @@ Dried cod (stockfish) with potatoes.
 
 ## Scalloped Potatoes
 
+Prep Time:- | Cook Time : 60 min. | Servings: - |
+
 ### Directions
 
 * In a baking pan, place one layer
@@ -2624,6 +2838,8 @@ Dried cod (stockfish) with potatoes.
 * Bake 350 for 1 hour
 
 ## Stuffed Onions
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
@@ -2655,6 +2871,8 @@ Cipolle Ripiene
 
 ## Torta di Patate
 
+Prep Time:- | Cook Time : 45 min | Servings: - |
+
 ### Description
 
 Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the crust from Torta verde
@@ -2682,6 +2900,8 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 
 ## Brazilian Stew
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ### Ingredients
 
 * 1 tablespoon oil
@@ -2705,6 +2925,8 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 * Then add the rest of the ingredients and cook until done.
 
 ## Chili - Sweet Potato and Black Bean
+
+Prep Time:- | Cook Time : 20-25 minutes | Servings: - |
 
 ### Ingredients
 
@@ -2731,6 +2953,8 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 
 ## French Onion Soup
 
+Prep Time:- | Cook Time : 1 hour | Servings: - |
+
 ### Ingredients
 
 * 1 T olive oil
@@ -2749,7 +2973,11 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 
 ## Minestrone
 
+Prep Time:- | Cook Time : - | Servings: - |
+
 ## Nonna Soup
+
+Prep Time:10 min | Cook Time : 20 min | Servings: 4-6 |
 
 ### Description
 
@@ -2787,6 +3015,8 @@ Additions:
 
 ## One Pot Enchilada
 
+Prep Time:- | Cook Time : 20 min | Servings: - |
+
 ### Ingredients
 
 * 1 cup quinoa
@@ -2822,6 +3052,8 @@ Originally from Simple Healthy Kitchen: [https://www.simplehealthykitchen.com/qu
 
 ## Red Lentil Soup
 
+Prep Time:10 min | Cook Time : 1 hour | Servings: 4 |
+
 ### Description
 
 Warm Lentil soup fixes all ailments.
@@ -2851,6 +3083,8 @@ Warm Lentil soup fixes all ailments.
 * Serve with drizzle of olive oil and/or balsamic vinegar (optional)
 
 ## Wedding Soup
+
+Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
