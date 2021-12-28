@@ -1,5 +1,7 @@
 [
     {{ range $index, $e := .Site.RegularPages }}
-    {{ if $index }}, {{ end }} {{dict "title" .Title "contents" .Plain "tags" .Params.Tags  "permalink" .Permalink |jsonify }}
+    {{ if $index }}, {{ end }} 
+    {{ $extras := dict "title" .Title "contents" .Plain "rendered_markdown" (partial "recipe.md" .) "categories" . "permalink" .Permalink "slug" (.Title|urlize) }}
+    {{merge $extras .Params | jsonify}}
     {{ end }}
 ]
