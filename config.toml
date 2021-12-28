@@ -4,14 +4,16 @@ title = 'Recipes'
 
 [mediaTypes]
   [mediaTypes."text/markdown"]
-  suffixes = ["md","markdown"]
-[outputFormats.markdown]
-  mediaType = "text/markdown"
-  baseName = "index"
-  isPlainText = true
+    suffixes = ["md","markdown"]
+[outFormats]
+  [outputFormats.markdown]
+    mediaType = "text/markdown"
+    baseName = "index" 
+    isPlainText = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "markdown"]
+  page = ["HTML"]
 
 [permalinks]
   blog = "/:filename/"
