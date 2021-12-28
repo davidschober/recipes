@@ -20,8 +20,8 @@ All content is put in as frontmatter to ensure consistency. Frontmatter schema:
 ## Creating a pdf book
 To create a book run
 
-`curl "http://localhost:1313/recipes/index.md" | pandoc --toc --toc-depth=2 -o ~/Desktop/test.pdf`
 
+`curl "https://davidschober.github.io/recipes/index.md" | pandoc --toc --toc-depth=2 --top-level-division=chapter -V book -o ~/Desktop/test.pdf'
 
 ## Data migrations using frontmatter
 
