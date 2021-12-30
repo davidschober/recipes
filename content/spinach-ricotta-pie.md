@@ -7,7 +7,7 @@ ingredients = "* 2 frozen pie crusts - bake as directed\n* 2 10 oz frozen choppe
 notes = ""
 photo = []
 prepTime = "30 min"
-servings = ""
+servings = "4-8"
 tags = []
 title = "Spinach Ricotta Pie"
 
