@@ -269,7 +269,7 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 ## Spinach Ricotta Pie
 
-Prep Time:30 min | Cook Time : 50 min | Servings: - |
+Prep Time:30 min | Cook Time : 50 min | Servings: 4-8 |
 
 ### Ingredients
 
@@ -2111,7 +2111,7 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 ## Spinach Ricotta Pie
 
-Prep Time:30 min | Cook Time : 50 min | Servings: - |
+Prep Time:30 min | Cook Time : 50 min | Servings: 4-8 |
 
 ### Ingredients
 
