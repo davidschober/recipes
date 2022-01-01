@@ -1495,11 +1495,13 @@ Prep Time:- | Cook Time : 30 min. | Servings: - |
 * Press dough into it
 * Brush with rest of beaten egg
 * Press almonds on top
-* Bake 30min. at 350
+* Bake 30 min. at 350
 
 ### Notes
 
 Rosa's note: I only use 1 cup of sugar; original recipe calls for 2.
+
+If using a spring form pan, bake on a baking sheet because the butter will leak.
 
 ## Nonna's Chocolate Pudding
 
