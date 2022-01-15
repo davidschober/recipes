@@ -981,16 +981,16 @@ Rosa’s notes: Mom always made these for Christmas and everybody thought that t
 
 * 1 1/2 c. flour
 * ​3/4 c. sugar
-* ​½ t.xa0cinnamon
+* ​½ t. cinnamon
 * ​½ c. butter
 * ​1 egg
 * ​1 egg white
-* ​½ c.xa0Slivered almonds
+* ​½ c. slivered almonds
 
 ### Directions
 
 * ​In large bowl combine flour, ½ c. sugar and cinnamon
-* ​Cut in butter in small pieces and work mix with fingertipsxa0untilxa0small crumbs form
+* ​Cut in butter in small pieces and work mix with fingertips until small crumbs form
 * Add egg and work until blended; shape into ball
 * ​Press evenly into well-greased 13x9x2 inch pan
 * ​Brush with beaten egg white; sprinkle with sugar and almonds
@@ -1442,16 +1442,16 @@ Rosa’s notes: Mom always made these for Christmas and everybody thought that t
 
 * 1 1/2 c. flour
 * ​3/4 c. sugar
-* ​½ t.xa0cinnamon
+* ​½ t. cinnamon
 * ​½ c. butter
 * ​1 egg
 * ​1 egg white
-* ​½ c.xa0Slivered almonds
+* ​½ c. slivered almonds
 
 ### Directions
 
 * ​In large bowl combine flour, ½ c. sugar and cinnamon
-* ​Cut in butter in small pieces and work mix with fingertipsxa0untilxa0small crumbs form
+* ​Cut in butter in small pieces and work mix with fingertips until small crumbs form
 * Add egg and work until blended; shape into ball
 * ​Press evenly into well-greased 13x9x2 inch pan
 * ​Brush with beaten egg white; sprinkle with sugar and almonds
