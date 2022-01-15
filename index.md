@@ -264,7 +264,7 @@ Prep Time:- | Cook Time : - | Servings: - |
 - 1 C. Water
 - In the meantime, chop 2 bunches Swiss Chards
 - Add 1/2 to 1 C. Raisins
-- Pinch of peperoncinoxa0
+- Pinch of peperoncino 
 - Salt and pepper
 
 ### Directions
@@ -272,7 +272,7 @@ Prep Time:- | Cook Time : - | Servings: - |
 - Mix together and let it rest covered
 - Let it rest a good hr, at which time squeeze out any moisture
 - Pinch off some dough and form a thin circle about 7-10 inches
-- Place a dollop of Swiss chard, wet all around and fold like a turnoverxa0
+- Place a dollop of Swiss chard, wet all around and fold like a turnover 
 - Bake for 30 min in 400 degree oven
 
 ## Spinach Ricotta Pie
@@ -438,7 +438,7 @@ Dough:
 
 Inside:
 
-* 2 big bunches Swiss chardxa0chopped and steamed. Can substitute spinach
+* 2 big bunches Swiss chard chopped and steamed. Can substitute spinach
 * 4 small-med zucchini, shredded
 * 1/2 bag frozen or 2 cans artichokes chopped fine
 * 3 eggs
@@ -901,14 +901,14 @@ Biscotti
 
 ### Ingredients
 
-* 2 cups+1 tablespoon)xa0all-purpose flourxa0sifted
+* 2 cups+1 tablespoon) all-purpose flour sifted
 * 3/4 cup + 1 tablespoon) granulated sugar
-* 1xa0tablespoonxa0honey
-* 1xa0teaspoonxa0baking powder
-* 1xa0teaspoonxa0grated orange zestxa0or lemon zest
-* 1xa0teaspoonxa0amaretto or 1/2 teaspoon almond extract (optional)
-* 2xa0eggs
-* ½ cupxa0raw unpeeled almonds
+* 1 tablespoon honey
+* 1 teaspoon baking powder
+* 1 teaspoon grated orange zest or lemon zest
+* 1 teaspoon amaretto or 1/2 teaspoon almond extract (optional)
+* 2 eggs
+* ½ cup raw unpeeled almonds
 
 ### Directions
 
@@ -1132,16 +1132,16 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
-* 3xa0largexa0eggs
-* 2xa0tablespoonsxa0sugar
-* 2xa0tablespoonsxa0oilxa0I used canola
-* 1xa0teaspoonxa0pure vanilla extract
-* 2xa0tablespoonsxa0grappaxa0limoncello or rum are also good choices
-* 1/2xa0cupxa0milk
-* 1/8xa0teaspoonxa0fine sea salt
-* 1xa0teaspoonxa0baking powder
-* 3 1/4xa0cupsxa0all-purpose flourxa0approximately
-* vegetable oilxa0for deep frying
+* 3 large eggs
+* 2 tablespoons sugar
+* 2 tablespoons oil I used canola
+* 1 teaspoon pure vanilla extract
+* 2 tablespoons grappa limoncello or rum are also good choices
+* 1/2 cup milk
+* 1/8 teaspoon fine sea salt
+* 1 teaspoon baking powder
+* 3 1/4 cups all-purpose flour approximately
+* vegetable oil for deep frying
 * Honey Mixture
   * 1 cup honey
   * grated zest of a lemon
@@ -1212,14 +1212,14 @@ Biscotti
 
 ### Ingredients
 
-* 2 cups+1 tablespoon)xa0all-purpose flourxa0sifted
+* 2 cups+1 tablespoon) all-purpose flour sifted
 * 3/4 cup + 1 tablespoon) granulated sugar
-* 1xa0tablespoonxa0honey
-* 1xa0teaspoonxa0baking powder
-* 1xa0teaspoonxa0grated orange zestxa0or lemon zest
-* 1xa0teaspoonxa0amaretto or 1/2 teaspoon almond extract (optional)
-* 2xa0eggs
-* ½ cupxa0raw unpeeled almonds
+* 1 tablespoon honey
+* 1 teaspoon baking powder
+* 1 teaspoon grated orange zest or lemon zest
+* 1 teaspoon amaretto or 1/2 teaspoon almond extract (optional)
+* 2 eggs
+* ½ cup raw unpeeled almonds
 
 ### Directions
 
@@ -1600,16 +1600,16 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 ### Ingredients
 
-* 3xa0largexa0eggs
-* 2xa0tablespoonsxa0sugar
-* 2xa0tablespoonsxa0oilxa0I used canola
-* 1xa0teaspoonxa0pure vanilla extract
-* 2xa0tablespoonsxa0grappaxa0limoncello or rum are also good choices
-* 1/2xa0cupxa0milk
-* 1/8xa0teaspoonxa0fine sea salt
-* 1xa0teaspoonxa0baking powder
-* 3 1/4xa0cupsxa0all-purpose flourxa0approximately
-* vegetable oilxa0for deep frying
+* 3 large eggs
+* 2 tablespoons sugar
+* 2 tablespoons oil I used canola
+* 1 teaspoon pure vanilla extract
+* 2 tablespoons grappa limoncello or rum are also good choices
+* 1/2 cup milk
+* 1/8 teaspoon fine sea salt
+* 1 teaspoon baking powder
+* 3 1/4 cups all-purpose flour approximately
+* vegetable oil for deep frying
 * Honey Mixture
   * 1 cup honey
   * grated zest of a lemon
@@ -2801,11 +2801,11 @@ Prep Time:- | Cook Time : - | Servings: - |
 - 1 piece of candied ginger
 - 1 stick of cinnamon
 - 1/3 c. Sugar
-- 1c. xa0Water
+- 1c.  Water
 
 ### Directions
 
-- Place all in a saucepan and cover with water. xa0Bring to boil and cook until cranberries pop. Cool and serve.
+- Place all in a saucepan and cover with water.  Bring to boil and cook until cranberries pop. Cool and serve.
 
 ## Green Bean Casserole
 
