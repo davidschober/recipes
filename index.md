@@ -1387,9 +1387,10 @@ Prep Time:15 min | Cook Time : 25 min | Servings: 16 |
 * 1/4 teaspoon salt
 * 1 teaspoon vanilla extract
 * 3 large eggs _slightly beaten_
-* 1/2 cup [**Dutch process cocoa powder**](http://bit.ly/2DTd6b4)
+* 1/2 cup Dutch process cocoa powder
 
-  **For the chocolate ganache:**
+**For the chocolate ganache:**
+
 * 1 cup semisweet chocolate chips or chopped chocolate
 * 1/2 cup heavy cream
 
