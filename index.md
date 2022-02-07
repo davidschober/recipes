@@ -1377,6 +1377,10 @@ Assembly
 
 Prep Time:15 min | Cook Time : 25 min | Servings: 16 |
 
+### Description
+
+From Two Peas and Their Pod online blog
+
 ### Ingredients
 
 **For the cake:**
