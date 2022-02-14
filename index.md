@@ -2714,6 +2714,10 @@ Prep Time:- | Cook Time : - | Servings: - |
 * 1/2 teaspoon dried dill
 * salt and pepper
 
+### Directions
+
+Add all ingredients into a bowl then whisk until smooth. Add more milk to thin dressing out if desired. Store in the refrigerator for 1-2 weeks.
+
 ### Notes
 
 From [https://iowagirleats.com/homemade-ranch-dressing-recipe/](https://iowagirleats.com/homemade-ranch-dressing-recipe/ "https://iowagirleats.com/homemade-ranch-dressing-recipe/")
@@ -2980,6 +2984,10 @@ Prep Time:- | Cook Time : - | Servings: - |
 * 1 teaspoon onion powder
 * 1/2 teaspoon dried dill
 * salt and pepper
+
+### Directions
+
+Add all ingredients into a bowl then whisk until smooth. Add more milk to thin dressing out if desired. Store in the refrigerator for 1-2 weeks.
 
 ### Notes
 
