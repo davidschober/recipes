@@ -2698,6 +2698,28 @@ Pesto can be made and frozen. If frozen do not add cheese or nuts; you can add t
 * When ready to use, warm up, add to pasta with a square of butter. Cheese can be added to individual plates. Stephanie uses Nutritional Yeast and salt to replace cheese.
 * Grandma Giordano used to use ice trays to freeze, then transfer to freezer bag
 
+## Ranch dressing
+
+Prep Time:- | Cook Time : - | Servings: - |
+
+### Ingredients
+
+* 1 cup mayonnaise
+* 6 Tablespoons milk (use dairy free if needed; we used Oat)
+* 2 teaspoons apple cider vinegar
+* 1 Tablespoon + 1 teaspoon dried parsley
+* 1 teaspoon dried chives
+* 1 teaspoon garlic powder
+* 1 teaspoon onion powder
+* 1/2 teaspoon dried dill
+* salt and pepper
+
+### Notes
+
+From [https://iowagirleats.com/homemade-ranch-dressing-recipe/](https://iowagirleats.com/homemade-ranch-dressing-recipe/ "https://iowagirleats.com/homemade-ranch-dressing-recipe/")
+
+Stephanie notes: We used Oat milk. I did not use chives, parsley, or pepper. This is so good.
+
 ## Sugo di Carne
 
 Prep Time:- | Cook Time : - | Servings: - |
@@ -2942,6 +2964,28 @@ Prep Time:- | Cook Time : 30 min. | Servings: - |
 * Stir soup, milk, soy sauce, pepper, beans and 1 1/3 cups onions in 3-qt. casserole.
 * Bake at 350 degrees F. for 25 min. or until hot. Stir.
 * Top with remaining onions. Bake for 5 min. more.
+
+## Ranch dressing
+
+Prep Time:- | Cook Time : - | Servings: - |
+
+### Ingredients
+
+* 1 cup mayonnaise
+* 6 Tablespoons milk (use dairy free if needed; we used Oat)
+* 2 teaspoons apple cider vinegar
+* 1 Tablespoon + 1 teaspoon dried parsley
+* 1 teaspoon dried chives
+* 1 teaspoon garlic powder
+* 1 teaspoon onion powder
+* 1/2 teaspoon dried dill
+* salt and pepper
+
+### Notes
+
+From [https://iowagirleats.com/homemade-ranch-dressing-recipe/](https://iowagirleats.com/homemade-ranch-dressing-recipe/ "https://iowagirleats.com/homemade-ranch-dressing-recipe/")
+
+Stephanie notes: We used Oat milk. I did not use chives, parsley, or pepper. This is so good.
 
 ## Scalloped Potatoes
 
