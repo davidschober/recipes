@@ -24,11 +24,12 @@ Cauliflower:
 * 1 large head cauliflower (about 2½ pounds), cut into medium and large florets (about 8 cups)
 * 3 tablespoons extra-virgin olive oil
 * Kosher salt and black pepper
+* Can also add: Garlic powder and paprika
 
 Buffalo Sauce:
 
 * 4 tablespoons unsalted butter
-* ⅓ cup Buffalo-style hot sauce (Frank's)
+* ⅓ cup Buffalo-style hot sauce (Frank's Original)
 
 ### Directions
 
@@ -41,6 +42,8 @@ Buffalo Sauce:
 ### Notes
 
 From NYT Cooking.
+
+(Stephanie): We added garlic powder and paprika to cauliflower before baking.
 
 Serve with Dairy-free ranch (recipe on this site) or some other dipping sauce.
 
