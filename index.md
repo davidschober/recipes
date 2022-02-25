@@ -2698,6 +2698,27 @@ Pesto can be made and frozen. If frozen do not add cheese or nuts; you can add t
 * When ready to use, warm up, add to pasta with a square of butter. Cheese can be added to individual plates. Stephanie uses Nutritional Yeast and salt to replace cheese.
 * Grandma Giordano used to use ice trays to freeze, then transfer to freezer bag
 
+## Pickled Onions
+
+Prep Time:- | Cook Time : - | Servings: - |
+
+### Ingredients
+
+
+* 1 red onion, thinly sliced
+* 1 c. White vinegar
+* 1 c. Water
+* 1 t. Sea salt
+* 1 T. Honey
+* Dash of red pepper flakes (optional)
+* Peppercorns (optional)
+
+### Directions
+
+* Place sliced onions in a jar
+* Combine the rest of the ingredients in a saucepan and bring to a boil
+* Fill jar, cool and refrigerate
+
 ## Ranch dressing
 
 Prep Time:- | Cook Time : - | Servings: - |
