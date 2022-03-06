@@ -247,20 +247,18 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 ### Description
 
-Eggplant in vinegar
+Pickled Eggplant
 
 ### Directions
 
 * Peel, slice, and julienne eggplant
 * Salt and leave for 24 hours
 * Squeeze out liquid
-* Boil 1/2 water, 1/2 vinegar
+* Boil 1/2 water, 1/2 white vinegar
 * Put eggplants in water/vinegar mix for 24 hours
 * Squeeze
-* Baste them with oil, garlic, chopped celery, red pepper, oregano, pepper
+* Mix/baste them with oil, sliced garlic, chopped celery, red pepper flakes, oregano, pepper (black peppercorns)
 * Fill jars
-
-Questions: What type of vinegar - white? Baste them?? Are we covering in oil? Garlic - cloves, minced? Red pepper - meaning flakes, yes? Pepper - black pepper? Peppercorns, or ground pepper?
 
 ## Pickled Mushrooms
 
