@@ -267,26 +267,21 @@ Prep Time:- | Cook Time : - | Servings: - |
 ### Ingredients
 
 * water
-* vinegar
+* White vinegar
 * button mushrooms
-* 
 
 ### Directions
 
-* Boil 1/2 water and 1/2 vinegar
+* Boil 1/2 water and 1/2 white vinegar
 * Add button mushrooms for 5 minutes
 * Drain
 * Cool mushrooms with lemons and peppercorns
-* Place in jars
-* Fill with vinegar
+* Place in jars (not the lemons)
+* Fill with white vinegar to cover
 
-Questions: 
+### Notes
 
-* sliced lemons? How many? Do you put the lemons in the jars? I don't remember lemons. 
-* White vinegar?
-* Fill with vinegar - new vinegar, the vinegar/water mix?  
-* How many peppercorns? Black peppercorns?
-* Amounts??
+We think the lemons are sliced and used only during cooling. They do not go in the jars.
 
 ## Pitte ’N Chiuse
 
