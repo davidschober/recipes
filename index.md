@@ -1212,7 +1212,7 @@ Prep Time:- | Cook Time : 60 min. | Servings: - |
 * 2 t. Baking powder
 * 1/4 t. Salt
 * 1 c. Flour
-* 3 baking apples, chopped
+* 3-4 Granny Smith apples, cored, peeled, and chopped
 * 2 T. Sugar
 * 1 T. Cinnamon
 
