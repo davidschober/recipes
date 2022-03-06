@@ -1315,9 +1315,9 @@ Mardi Gras dessert
 
 * 1 3/4 cups (225 g) flour
 * 2 tablespoons unsalted butter
-* 1/3 cup confectioners sugar
+* 1/3 cup confectioners sugar (or regular sugar)
 * 2 eggs
-* 1 tablespoon brandy
+* 1 tablespoon brandy (or whiskey)
 * A pinch of salt
 * More confectioner’s sugar for dusting
 * Oil for deep frying
