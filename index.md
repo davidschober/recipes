@@ -932,8 +932,8 @@ Biscotti
 
 ### Ingredients
 
-* 2 cups+1 tablespoon) all-purpose flour sifted
-* 3/4 cup + 1 tablespoon) granulated sugar
+* 2 cups+1 tablespoon all-purpose flour sifted
+* 3/4 cup + 1 tablespoon granulated sugar
 * 1 tablespoon honey
 * 1 teaspoon baking powder
 * 1 teaspoon grated orange zest or lemon zest
@@ -1266,8 +1266,8 @@ Biscotti
 
 ### Ingredients
 
-* 2 cups+1 tablespoon) all-purpose flour sifted
-* 3/4 cup + 1 tablespoon) granulated sugar
+* 2 cups+1 tablespoon all-purpose flour sifted
+* 3/4 cup + 1 tablespoon granulated sugar
 * 1 tablespoon honey
 * 1 teaspoon baking powder
 * 1 teaspoon grated orange zest or lemon zest
