@@ -268,7 +268,7 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 * water
 * White vinegar
-* button mushrooms
+* button mushrooms (whole)
 
 ### Directions
 
