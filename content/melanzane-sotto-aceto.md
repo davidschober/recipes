@@ -7,7 +7,7 @@ ingredients = ""
 notes = ""
 prepTime = ""
 servings = ""
-tags = ["Needs Work"]
+tags = []
 title = "Melanzane sotto Aceto"
 
 +++
