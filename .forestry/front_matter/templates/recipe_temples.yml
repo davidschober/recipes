@@ -43,6 +43,7 @@ fields:
     - Sauces
     - Sides
     - Soups and Stews
+    - Fish and Seafood
 - type: text
   name: prepTime
   label: prepTime
