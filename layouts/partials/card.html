@@ -1,6 +1,8 @@
 <article class="card" style="width: 15rem;">
-
+    {{/* Check to see if card photo exists */}}
+    {{if .cardPhoto }}
     <img src="{{ (.cardPhoto.Fill "300x175 q75").RelPermalink }}"/>
+    {{ end }}
     <section class="card-body">
         <h4 class="card-title">{{ .cardTitle }}</h4>
         <h5 class="card-subtitle">{{ .cardSubTitle }} Recipes </h5>
