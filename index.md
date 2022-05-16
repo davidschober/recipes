@@ -45,7 +45,7 @@ From NYT Cooking.
 
 (Stephanie): We added garlic powder and paprika to cauliflower before baking.
 
-Serve with Dairy-free ranch (recipe on this site) or some other dipping sauce.
+Serve with \[Dairy-free ranch\]([https://davidschober.github.io/recipes/ranch-dressing/](https://davidschober.github.io/recipes/ranch-dressing/ "https://davidschober.github.io/recipes/ranch-dressing/")) (recipe on this site) or some other dipping sauce. 
 
 ## Carciofi Sott'olio
 
@@ -1804,6 +1804,56 @@ Prep Time:- | Cook Time : - | Servings: - |
 - 1oz triple sec
 - Grapefruit juice
 - Pineapple juice
+
+# Fish and Seafood
+
+## Broiled Cod with Lemon Garlic Butter Sauce
+
+Prep Time:10 min | Cook Time : 10 min | Servings: 3-4 |
+
+### Description
+
+Serve with any sides, such as wild rice, roasted or steamed broccoli, roasted potatoes or other veggies.
+
+### Ingredients
+
+* 1 pound of cod (4 fillets)
+* 1/2 teaspoon salt
+* 1/4 teaspoon pepper
+* 4 tablespoons butter
+* 4 cloves garlic (minced)
+* 1 tablespoon fresh squeezed lemon juice
+* 1 teaspoon lemon zest
+* 2 tablespoons fresh parsley (minced) - didn't use
+
+### Directions
+
+* Preheat the broiler on the oven. Pat the cod with a paper towel, then season both sides with the salt and pepper.
+* Melt the butter over medium-high heat in a cast iron or oven-proof skillet that is no bigger than 12 inches. Add the garlic and cook, stirring constantly, for 30 seconds, then stir in the lemon juice and zest.
+* Place the cod fillets in the pan and cook for 1 minute, then carefully turn them over.
+* Place the skillet in the oven about 4-6 inches from the broiler. Broil for 6-9 minutes, depending on the thickness of your fillets, or until the internal temperature of the cod reaches 130-140°F on a meat thermometer inserted into the center of the thickest portion of a fillet.
+* Garnish with the parsley and extra lemon slices, if desired, and serve.
+
+### Notes
+
+Taken from: [https://deliciouslittlebites.com/broiled-cod/](https://deliciouslittlebites.com/broiled-cod/ "https://deliciouslittlebites.com/broiled-cod/")
+
+## Creole Shrimp Skewers
+
+Prep Time:- | Cook Time : 12-15 min | Servings: - |
+
+### Ingredients
+
+* 2 tablespoons Creole Seasoning
+* 6 tablespoons unsalted butter, melted
+* 1 pound medium shrimp (30/40) peeled and deveined
+
+### Directions
+
+* Preheat the oven to 425 degrees F.
+* Combine the Creole Seasoning and melted butter in a medium bowl. Whisk to combine. Place 3 tablespoons of this mixture in a shallow dish and reserve the remaining mixture for later.
+* Skewer the shrimp on small 6 inch skewers, using 2-3 shrimp per skewer. Lay the skewers in the butter mixture in the shallow dish and coat both sides with the seasoning. Place the skewers on a parchment-lined baking sheet. Once all the shrimp have been skewered, place the baking sheet in the oven and let the shrimp bake for about 12-15 minutes until opaque throughout. Remove the skewers and place on a platter for serving.
+* Serve immediately with the remaining melted Creole butter and some crusty bread to dip in the butter.
 
 # Main Dishes
 
