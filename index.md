@@ -45,7 +45,7 @@ From NYT Cooking.
 
 (Stephanie): We added garlic powder and paprika to cauliflower before baking.
 
-Serve with \[Dairy-free ranch\]([https://davidschober.github.io/recipes/ranch-dressing/](https://davidschober.github.io/recipes/ranch-dressing/ "https://davidschober.github.io/recipes/ranch-dressing/")) (recipe on this site) or some other dipping sauce. 
+Serve with [https://davidschober.github.io/recipes/ranch-dressing/](https://davidschober.github.io/recipes/ranch-dressing/ "Dairy-free ranch") (recipe on this site) or some other dipping sauce.
 
 ## Carciofi Sott'olio
 
