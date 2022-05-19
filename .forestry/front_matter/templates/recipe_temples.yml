@@ -1,6 +1,6 @@
 ---
 label: recipe_templates
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: title
