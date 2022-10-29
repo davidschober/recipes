@@ -3115,6 +3115,40 @@ Prep Time:- | Cook Time : 1 hour | Servings: - |
 * Aggiungete nel composto che si sarà addensato i semini di finocchietto, due cucchiai di olio e incorporate bene mescolando con un cucchiaio di legno. Ungete una teglia rettangolare (25 x 35) e antiaderente con l'olio rimasto, e versatevi la crema di farina di castagne ottenuta. Terminate distribuendo uniformemente sulla superficie l'uvetta scolata e strizzata, e poi i pinoli.
 * Cuocete nel forno preriscaldato a 180°C per circa un’ora. Il castagnaccio è pronto quando si stacca dalle pareti della teglia e la parte superiore assume un bel colore dorato, con le caratteristiche crepe
 
+## Cornbread Stuffing
+
+Prep Time:- | Cook Time : 45 min | Servings: 10-12 |
+
+### Description
+
+Aunt Donna's dressing, ish, without the meat.
+
+### Ingredients
+
+* 8 cups cornbread cut into 1/2 inch pieces
+* 1 loaf white bread (made fine) 
+* 3 cups vegetable stock 
+* 1 Tbs olive oil 
+* 1 yellow onion, finely chopped 
+* 1 celery stalk, finely chopped 
+* 1 carrot, finely chopped 
+* 2 tablespoons black pepper 
+* 4 tablespoons ground sage 
+* 1 egg 
+
+### Directions
+
+* Preheat oven to 400 degrees F. Butter a 13-by-9 inch baking dish. 
+* Spread the corn bread out on a baking sheet and toast in the oven for 20 minutes. Set aside. 
+* In a small saucepan over medium heat, warm the stock. Remove the pan from the heat. Let cool. 
+* Add the onion, celery and carrot to 1 Tbs olive oil to a fry pan and saute until soft and translucent, about 5 minutes. Add salt. 
+* In a large bowl, combine the corn bread, white bread crumbs, onion mixture, sage, and black pepper. Whisk the egg into the stock mixture and add to the corn bread mixture. Season with additional salt if needed. Stir gently to mix. 
+* Transfer to prepared baking dish and bake until brown and crispy, about 45 minutes (check at 35 minutes). Serves 10-12. 
+
+### Notes
+
+Use gluten free corn bread and white bread to make the recipe gluten free. 
+
 ## Cranberry Relish
 
 Prep Time:- | Cook Time : - | Servings: - |
