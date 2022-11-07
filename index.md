@@ -1841,6 +1841,32 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 # Fish and Seafood
 
+## Baked Salmon with Honey Mustard Sauce
+
+Prep Time:15 min | Cook Time : 15 min | Servings: 4 |
+
+### Ingredients
+
+* Four 6- to 7-ounce salmon fillets, skin-on
+* 1/2 cup low-fat mayonnaise
+* 1/4 cup Dijon mustard
+* 1/4 cup honey
+* 2 tablespoons finely chopped chives, plus additional for garnish
+* Kosher salt and freshly ground white pepper
+* Kosher salt and freshly ground white pepper
+
+### Directions
+
+1. Preheat the oven to 375 degrees F. Line a large baking sheet with a nonstick silicone liner, and lay the salmon, skin side down, on top. Set aside.
+2. Combine the mayonnaise, mustard, honey and chives in a medium bowl and stir to thoroughly combine. Reserve half of the sauce. Spoon the remaining sauce over the fish, spreading it evenly all over the top and sides of each fillet. Sprinkle with salt and pepper.
+3. Roast just until the fish is opaque in the center, 7 minutes. Increase the oven to broil. Broil the fish for 6 to 7 minutes, but keep your eye on it to avoid overcooking. Garnish with chives and serve with the reserved sauce.
+
+### Notes
+
+From Food Network. 
+
+Note from Stephanie: We don't use chives and the time listed is usually too long.
+
 ## Broiled Cod with Lemon Garlic Butter Sauce
 
 Prep Time:10 min | Cook Time : 10 min | Servings: 3-4 |
@@ -1890,6 +1916,32 @@ Prep Time:- | Cook Time : 12-15 min | Servings: - |
 * Serve immediately with the remaining melted Creole butter and some crusty bread to dip in the butter.
 
 # Main Dishes
+
+## Baked Salmon with Honey Mustard Sauce
+
+Prep Time:15 min | Cook Time : 15 min | Servings: 4 |
+
+### Ingredients
+
+* Four 6- to 7-ounce salmon fillets, skin-on
+* 1/2 cup low-fat mayonnaise
+* 1/4 cup Dijon mustard
+* 1/4 cup honey
+* 2 tablespoons finely chopped chives, plus additional for garnish
+* Kosher salt and freshly ground white pepper
+* Kosher salt and freshly ground white pepper
+
+### Directions
+
+1. Preheat the oven to 375 degrees F. Line a large baking sheet with a nonstick silicone liner, and lay the salmon, skin side down, on top. Set aside.
+2. Combine the mayonnaise, mustard, honey and chives in a medium bowl and stir to thoroughly combine. Reserve half of the sauce. Spoon the remaining sauce over the fish, spreading it evenly all over the top and sides of each fillet. Sprinkle with salt and pepper.
+3. Roast just until the fish is opaque in the center, 7 minutes. Increase the oven to broil. Broil the fish for 6 to 7 minutes, but keep your eye on it to avoid overcooking. Garnish with chives and serve with the reserved sauce.
+
+### Notes
+
+From Food Network. 
+
+Note from Stephanie: We don't use chives and the time listed is usually too long.
 
 ## Black bean quesadillas
 
