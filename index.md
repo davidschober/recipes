@@ -1863,7 +1863,7 @@ Prep Time:15 min | Cook Time : 15 min | Servings: 4 |
 
 ### Notes
 
-From Food Network. 
+From [Food Network](https://www.foodnetwork.com/recipes/valerie-bertinelli/baked-salmon-with-honey-mustard-sauce-3097803).
 
 Note from Stephanie: We don't use chives and the time listed is usually too long.
 
@@ -1939,7 +1939,7 @@ Prep Time:15 min | Cook Time : 15 min | Servings: 4 |
 
 ### Notes
 
-From Food Network. 
+From [Food Network](https://www.foodnetwork.com/recipes/valerie-bertinelli/baked-salmon-with-honey-mustard-sauce-3097803).
 
 Note from Stephanie: We don't use chives and the time listed is usually too long.
 
