@@ -2431,6 +2431,7 @@ Prep Time:60 min | Cook Time : 1 hour | Servings: - |
 
 * Recipe recommends making the lentil loaf the night before and reheating it on the next day (at 350°F for about 20 minutes). This way it will be much firmer.
 * Properly stored it will keep up to 5 days in the fridge and 8 weeks in the freezer.
+* From: [https://veganheaven.org/recipe/vegan-thanksgiving-lentil-loaf/](https://veganheaven.org/recipe/vegan-thanksgiving-lentil-loaf/ "https://veganheaven.org/recipe/vegan-thanksgiving-lentil-loaf/")
 
 ## One Pot Enchilada
 
