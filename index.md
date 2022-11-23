@@ -966,22 +966,23 @@ Biscotti
 
 ### Ingredients
 
-* 2 cups+1 tablespoon all-purpose flour sifted
-* 3/4 cup + 1 tablespoon granulated sugar
-* 1 tablespoon honey
-* 1 teaspoon baking powder
-* 1 teaspoon grated orange zest or lemon zest
-* 1 teaspoon amaretto or 1/2 teaspoon almond extract (optional)
-* 2 eggs
-* ½ cup raw unpeeled almonds
+* 2 1/4 cups all-purpose flour sifted
+* 1 cup granulated sugar
+* 2 Tbs butter, room temp
+* 1/4 tsp salt
+* 2 teaspoon baking powder
+* 1/4 teaspoon baking soda
+* 4 eggs
+* 1 cup raw unpeeled almonds
 
 ### Directions
 
-* Preheat the oven to 180 degrees C (356 degrees F).
+* Preheat the oven to 325 degrees F
 * In a large bowl, combine the dry ingredients.
-* Add the eggs, honey, orange zest, amaretto and mix all the ingredients.
+* Add butter
+* Add the eggs, mix all the ingredients.
 * Once you have a crumbly, soft mixture, add the almonds.
-* Transfer the dough on a lightly floured surface and roll it into 2 logs that are approximately 30 cm (12 inch) long, and 5 cm (2 inch) wide.
+* Transfer the dough on a lightly floured surface and roll it into 2-3 logs that are approximately 30 cm (12 inch) long, and 5 cm (2 inch) wide.
 * Wet your hands, it will be easier to shape the dough.
 * Place the logs on a baking sheet lined with parchment paper or with a silicone mat.
 * Bake for 30 minutes, until golden brown.
@@ -1300,22 +1301,23 @@ Biscotti
 
 ### Ingredients
 
-* 2 cups+1 tablespoon all-purpose flour sifted
-* 3/4 cup + 1 tablespoon granulated sugar
-* 1 tablespoon honey
-* 1 teaspoon baking powder
-* 1 teaspoon grated orange zest or lemon zest
-* 1 teaspoon amaretto or 1/2 teaspoon almond extract (optional)
-* 2 eggs
-* ½ cup raw unpeeled almonds
+* 2 1/4 cups all-purpose flour sifted
+* 1 cup granulated sugar
+* 2 Tbs butter, room temp
+* 1/4 tsp salt
+* 2 teaspoon baking powder
+* 1/4 teaspoon baking soda
+* 4 eggs
+* 1 cup raw unpeeled almonds
 
 ### Directions
 
-* Preheat the oven to 180 degrees C (356 degrees F).
+* Preheat the oven to 325 degrees F
 * In a large bowl, combine the dry ingredients.
-* Add the eggs, honey, orange zest, amaretto and mix all the ingredients.
+* Add butter
+* Add the eggs, mix all the ingredients.
 * Once you have a crumbly, soft mixture, add the almonds.
-* Transfer the dough on a lightly floured surface and roll it into 2 logs that are approximately 30 cm (12 inch) long, and 5 cm (2 inch) wide.
+* Transfer the dough on a lightly floured surface and roll it into 2-3 logs that are approximately 30 cm (12 inch) long, and 5 cm (2 inch) wide.
 * Wet your hands, it will be easier to shape the dough.
 * Place the logs on a baking sheet lined with parchment paper or with a silicone mat.
 * Bake for 30 minutes, until golden brown.
