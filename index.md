@@ -1818,11 +1818,18 @@ Prep Time:- | Cook Time : - | Servings: - |
 * 1/4 tsp cinnamon
 * 1 tsp sugar
 * 1 cup milk
-* 2 tsp water
+* 2 tsp hot water
 
 ### Directions
 
-* 
+* Mix cocoa, sugar in the hot water
+* Heat milk
+* Combine
+* Add cinnamon
+
+### Notes
+
+Cinnamon makes it Mexican. Don't use if you don't want.
 
 ## Negroni (Negroski)
 
