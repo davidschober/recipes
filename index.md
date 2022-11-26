@@ -1808,6 +1808,22 @@ Grandpa Bellino's wine; Rosa's handwritten notes
 * Cork it (40 days later)
 * After 3-6 months place in bottles
 
+## Mexican Hot Chocolate
+
+Prep Time:- | Cook Time : - | Servings: - |
+
+### Ingredients
+
+* 1 1/2 - 2 tsp cocoa
+* 1/4 tsp cinnamon
+* 1 tsp sugar
+* 1 cup milk
+* 2 tsp water
+
+### Directions
+
+* 
+
 ## Negroni (Negroski)
 
 Prep Time:- | Cook Time : - | Servings: - |
