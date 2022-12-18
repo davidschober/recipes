@@ -3414,6 +3414,10 @@ Prep Time:- | Cook Time : 30 min. | Servings: - |
 
 Prep Time:- | Cook Time : - | Servings: 24 pancakes |
 
+### Description
+
+We make these for our ornament exchange which we started to do around 2019/2020. Used to get them at Christkindl market in Chicago.
+
 ### Ingredients
 
 * 1 medium onion, peeled
