@@ -2011,7 +2011,7 @@ Prep Time:10 min | Cook Time : 20 min | Servings: 4-6 |
 
 ### Ingredients
 
-    Black Bean Chili Filling:
+#### Black Bean Chili Filling:
 
 * 1 tablespoon **olive oil**
 * 1 **onion**, chopped
@@ -2023,9 +2023,10 @@ Prep Time:10 min | Cook Time : 20 min | Servings: 4-6 |
 * 1 teaspoon **ground cumin**
 * 1 teaspoon **ground coriander**
 * 1 15. oz. can **black beans**, drained and rinsed
-* 1 15 oz. **diced tomatoes** with juice 
+* 1 15 oz. **diced tomatoes** with juice
 
-  **Vegan Cornmeal Topping:**
+#### Vegan Cornmeal Topping:
+
 * 3/4 cup ground cornmeal
 * 1/4 cup cup whole-wheat flour (use gluten-free flour blend for gluten free option)
 * 1/2 teaspoon baking powder
