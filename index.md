@@ -2005,6 +2005,37 @@ Prep Time:10 min | Cook Time : 10 min | Servings: 4 |
 * Can do corn or flour tortillas
 * Can do 2 tortillas or one folded
 
+## Black Bean Tamale Pie
+
+Prep Time:10 min | Cook Time : 20 min | Servings: 4-6 |
+
+### Ingredients
+
+    Black Bean Chili Filling:
+
+* 1 tablespoon **olive oil**
+* 1 **onion**, chopped
+* 1 clove **garlic**, minced
+* 1 **bell pepper**, chopped
+* 1 medium **zucchini,** chopped
+* 1 tablespoon **chili powder**
+* 1/4 teaspoon **cayenne pepper** (use more if you want more heat)
+* 1 teaspoon **ground cumin**
+* 1 teaspoon **ground coriander**
+* 1 15. oz. can **black beans**, drained and rinsed
+* 1 15 oz. **diced tomatoes** with juice 
+
+  **Vegan Cornmeal Topping:**
+* 3/4 cup ground cornmeal
+* 1/4 cup cup whole-wheat flour (use gluten-free flour blend for gluten free option)
+* 1/2 teaspoon baking powder
+* 1/4 cup canola oil or olive oil
+* 1 tablespoon maple syrup
+* 3/4 cup unsweetened soymilk or other unsweetened non-dairy milk
+* 1 teaspoon apple cider vinegar
+* 1 4oz. can diced green chilis
+* 1/2 cup corn (thawed from frozen or canned)
+
 ## Broiled Cod with Lemon Garlic Butter Sauce
 
 Prep Time:10 min | Cook Time : 10 min | Servings: 3-4 |
