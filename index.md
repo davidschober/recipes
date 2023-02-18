@@ -2665,6 +2665,49 @@ Prep Time:30 min | Cook Time : 50 min | Servings: 4-8 |
 * Add spinach
 * Place in crusts and cook for 50 minutes, 350 degrees
 
+## Sweet Potato Tacos
+
+Prep Time:20 min | Cook Time : 25 min | Servings: 5 |
+
+### Ingredients
+
+* **2 cups** sweet potatoes, peeled and cut into 1/2-inch cubes from 2 sweet medium potatoes
+* **1 Tbsp** extra virgin olive oil
+* **1 Tbsp** [taco seasoning](https://themodernproper.com/posts/homemade-taco-seasoning)
+* **1 (15 oz) can** black beans, drained and rinsed
+* **3 cups** quick slaw (recipe below)
+* **6-8 (6 or 8-inch)** corn tortillas, warmed
+* **2 oz** goat cheese crumbled, optional
+
+Quick Slaw:
+
+* **2 cups** finely shredded, red cabbage
+* **2 Tbsp** lime, juiced from 1 lime
+* **1/2 tsp** kosher salt
+* **1/3 cup** roughly chopped cilantro
+
+Taco Seasoning
+
+* **​1 tbsp** chili powder
+* **1 tbsp** sea salt
+* **1 tbsp** smoked paprika
+* **1 tbsp** cumin
+* **1 tbsp** onion powder
+* **1 tbsp** garlic powder
+* **1 tbsp** oregano
+* **½ tbsp** black pepper
+
+### Directions
+
+1. Preheat oven to 375° F.
+2. Spread the sweet potatoes out on a rimmed baking sheet. Drizzle with olive oil and taco seasoning, toss until combined. Cook potatoes on center rack until tender, about 25 minutes. While the potatoes are still warm, toss them with the black beans.
+3. Meanwhile, in a medium sized bowl, mix all ingredients for the quick slaw.
+4. To serve place a scoop of the sweet potato mixture into a warmed tortilla shell. Top with quick slaw, crumbled goat cheese, a scoop of guacamole and a drizzle of vegan queso.
+
+### Notes
+
+We make beans separately with garlic powder, cumin, so that they can be eaten without the sweet potatos. The taco seasoning is really good. 
+
 ## Veal and Peas
 
 Prep Time:- | Cook Time : - | Servings: - |
