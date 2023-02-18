@@ -848,7 +848,7 @@ Prep Time:- | Cook Time : - | Servings: - |
 ### Ingredients
 
 * 1 cup milk
-* 1 cup flour
+* 1 cup wheat flour
 * 1 tsp baking powder
 * pinch of salt (1/8 tsp)
 * 1 egg
@@ -856,11 +856,12 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 ### Directions
 
-Put ingredients in a mixer, starting with wet ingredients, mix.
+Put ingredients in a mixer, starting with wet ingredients, mix. Pour in pan and add chocolate chips
 
 ### Notes
 
-we use vitamix for this. 10 seconds mixing is enough.
+* we use vitamix for this. 10 seconds mixing is enough.
+* Batter can be stored in refrigerator
 
 ## Nonna Pancakes
 
