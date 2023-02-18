@@ -2706,7 +2706,9 @@ Taco Seasoning
 
 ### Notes
 
-We make beans separately with garlic powder, cumin, so that they can be eaten without the sweet potatos. The taco seasoning is really good. 
+We make beans separately with garlic powder, cumin, so that they can be eaten without the sweet potatoes. The taco seasoning is really good.
+
+From: [https://themodernproper.com/sweet-potato-tacos](https://themodernproper.com/sweet-potato-tacos "https://themodernproper.com/sweet-potato-tacos")
 
 ## Veal and Peas
 
