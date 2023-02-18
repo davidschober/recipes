@@ -3238,6 +3238,21 @@ Prep Time:- | Cook Time : - | Servings: - |
 * Turn to simmer and cook for at least 2 hrs.
 * Remove the meat and serve separately with pasta topped with sauce
 
+## Taco Seasoning
+
+Prep Time:- | Cook Time : - | Servings: - |
+
+### Ingredients
+
+* **​1 tbsp** chili powder
+* **1 tbsp** sea salt
+* **1 tbsp** smoked paprika
+* **1 tbsp** cumin
+* **1 tbsp** onion powder
+* **1 tbsp** garlic powder
+* **1 tbsp** oregano
+* **½ tbsp** black pepper
+
 ## Taco Seasoning - nightshade free
 
 Prep Time:- | Cook Time : - | Servings: - |
