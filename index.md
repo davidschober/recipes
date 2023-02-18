@@ -849,14 +849,18 @@ Prep Time:- | Cook Time : - | Servings: - |
 
 * 1 cup milk
 * 1 cup flour
-* 1 T baking powder
-* pinch of salt
+* 1 tsp baking powder
+* pinch of salt (1/8 tsp)
 * 1 egg
 * 1/2 tsp vanilla
 
 ### Directions
 
-Put ingredients in a mixer, mix.
+Put ingredients in a mixer, starting with wet ingredients, mix.
+
+### Notes
+
+we use vitamix for this. 10 seconds mixing is enough.
 
 ## Nonna Pancakes
 
