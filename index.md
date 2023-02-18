@@ -841,6 +841,23 @@ Torta di Patate, without sfoglia: Potato pie, recipe without the crust. Use the 
 
 # Breakfast
 
+## Beatrice's Simple Whole Wheat Pancakes
+
+Prep Time:- | Cook Time : - | Servings: - |
+
+### Ingredients
+
+* 1 cup milk
+* 1 cup flour
+* 1 T baking powder
+* pinch of salt
+* 1 egg
+* 1/2 tsp vanilla
+
+### Directions
+
+Put ingredients in a mixer, mix.
+
 ## Nonna Pancakes
 
 Prep Time:- | Cook Time : - | Servings: - |
