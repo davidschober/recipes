@@ -2438,7 +2438,7 @@ Prep Time:- | Cook Time : 12-15 min | Servings: - |
 * Top dough with tomato sauce, then the pepper mixture, then shredded mozzarella
 * Bake 475 degrees for 12-15 min
 
-## Jambalaya
+## Jambalaya - Rosa's recipe
 
 Prep Time:- | Cook Time : - | Servings: - |
 
