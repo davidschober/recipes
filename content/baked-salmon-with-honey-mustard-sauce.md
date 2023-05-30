@@ -1,3 +1,8 @@
+---
+_template: recipe_temples
+---
+
+
 +++
 categories = ["Main Dishes", "Fish and Seafood"]
 cookTime = "15 min"
