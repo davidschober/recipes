@@ -1,3 +1,8 @@
+---
+_template: recipe_temples
+---
+
+
 +++
 categories = [ "Desserts", "Breakfast",]
 cookTime = "20-30 min"

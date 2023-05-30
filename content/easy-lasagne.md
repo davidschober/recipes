@@ -1,3 +1,8 @@
+---
+_template: recipe_temples
+---
+
+
 +++
 categories = [ "Pasta", "Main Dishes",]
 cookTime = "40 min"
