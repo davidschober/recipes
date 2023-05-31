@@ -29,9 +29,11 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: '0.89.2'
-
-      - name: Build
-        run: npx tinacms build -c "hugo --minify"
+      - name: Build TinaCMS
+        env:
+          TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        run: npx tinacms build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
