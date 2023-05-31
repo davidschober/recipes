@@ -4,8 +4,8 @@
   "description": "A family recipe collection using hugo and the paper.css \"less formal\" style.",
   "main": "index.js",
   "scripts": {
-    "dev": "tinacms dev -c \"hugo server -D\"",
-    "build": "tinacms build && hugo",
+    "dev": "tinacms dev -c \"hugo server\"",
+    "build": "tinacms build && hugo"
   },
   "keywords": [],
   "author": "",
