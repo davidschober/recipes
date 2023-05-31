@@ -31,10 +31,10 @@ notes: >-
 photo: []
 prepTime: ''
 servings: ''
-tags: []
+tags:
+  - Dinner
+  - Northern Italy
 title: Paolo's sauce
 description: ''
-_template: recipe_temples
 ---
-
 
