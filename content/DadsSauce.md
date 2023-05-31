@@ -36,5 +36,7 @@ tags:
   - Northern Italy
 title: Paolo's sauce
 description: ''
+_template: recipe_temples
 ---
+
 
