@@ -12,6 +12,7 @@ export default defineConfig({
   build: {
     outputFolder: "admin",
     publicFolder: "static",
+    basePath: "recipes", // need this for non-root
   },
   media: {
     tina: {
