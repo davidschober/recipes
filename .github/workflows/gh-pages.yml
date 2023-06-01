@@ -27,7 +27,7 @@ jobs:
           hugo-version: '0.89.2'
 
       - name: install-npm-deps
-        run: npm install
+        run: npm ci 
 
       - name: Build
         env:
