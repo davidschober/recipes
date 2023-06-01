@@ -25,6 +25,9 @@ jobs:
         with:
           hugo-version: '0.89.2'
 
+      - name: install-npm-deps
+        run: npm install
+
       - name: Build
         env:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
