@@ -1,11 +1,21 @@
 +++
-categories = [ "Drinks",]
+categories = [ "Drinks" ]
 cookTime = ""
-photo = []
+photo = [ ]
 prepTime = ""
 servings = ""
-tags = [ "Mardi Gras",]
+tags = [ "Mardi Gras" ]
 title = "Pat O'Brien's Hurricane"
-ingredients = "- 1oz vodka\n- 1/4oz grenadine\n- 1oz gin\n- 1oz light rum\n- 1/2oz 151 rum\n- 1oz amaretto\n- 1oz triple sec\n- Grapefruit juice\n- Pineapple juice"
-
+ingredients = """
+- 1oz vodka
+- 1/4oz grenadine
+- 1oz gin
+- 1oz light rum
+- 1/2oz 151 rum
+- 1oz amaretto
+- 1oz triple sec
+- Grapefruit juice
+- Pineapple juice"""
+_template = "recipe_temples"
 +++
+

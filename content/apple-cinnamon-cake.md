@@ -1,13 +1,32 @@
 +++
-categories = ["Desserts"]
+categories = [ "Desserts" ]
 cookTime = "60 min."
 description = ""
-directions = "* Toss apples, 2 T. Sugar and cinnamon and set aside\n* Mix the first 4 ingredients and beat at high speed for 4 min.\n* Add the eggs and continue mixing\n* Add the rest of ingredients and mix slightly\n* Add the apples and stir\n* Pour into greased springform pan and bake for 1 hr, 350 degrees\n* Drizzle caramel sauce or powdered sugar over top and serve"
-ingredients = "* 1 c. Sugar\n* 1 T. Vanilla\n* 8 oz. cream cheese\n* 1 stick of butter\n* 2 eggs\n* 2 t. Baking powder\n* 1/4 t. Salt\n* 1 c. Flour\n* 3-4 Granny Smith apples, cored, peeled, and chopped\n* 2 T. Sugar\n* 1 T. Cinnamon"
+directions = """
+* Toss apples, 2 T. Sugar and cinnamon and set aside
+* Mix the first 4 ingredients and beat at high speed for 4 min.
+* Add the eggs and continue mixing
+* Add the rest of ingredients and mix slightly
+* Add the apples and stir
+* Pour into greased springform pan and bake for 1 hr, 350 degrees
+* Drizzle caramel sauce or powdered sugar over top and serve"""
+ingredients = """
+* 1 c. Sugar
+* 1 T. Vanilla
+* 8 oz. cream cheese
+* 1 stick of butter
+* 2 eggs
+* 2 t. Baking powder
+* 1/4 t. Salt
+* 1 c. Flour
+* 3-4 Granny Smith apples, cored, peeled, and chopped
+* 2 T. Sugar
+* 1 T. Cinnamon"""
 notes = ""
 prepTime = ""
 servings = ""
-tags = []
+tags = [ ]
 title = "Apple Cinnamon Cake"
-
+_template = "recipe_temples"
 +++
+
