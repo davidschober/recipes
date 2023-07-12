@@ -27,7 +27,7 @@ jobs:
           node-version: '19.8.1'
         
       - name: install tina
-        run: npm install @tinacms/cli
+        run: npm install -g @tinacms/cli
 
       - name: Build
         run: tinacms build && hugo --minify
