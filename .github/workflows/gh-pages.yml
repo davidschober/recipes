@@ -27,10 +27,10 @@ jobs:
           node-version: '19.8.1'
         
       - name: install tina
-        run: npm install tinacms
+        run: npx @tinacms/cli@latest
 
       - name: Build
-        run: tinacms build && hugo --minify
+        run: npx tinacms build && hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
