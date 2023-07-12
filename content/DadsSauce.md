@@ -1,3 +1,7 @@
++++
+_template = "recipe_temples"
++++
+
 ---
 categories:
 - Sauces

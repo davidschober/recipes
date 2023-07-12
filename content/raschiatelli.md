@@ -1,12 +1,15 @@
 +++
-categories = [ "Pasta",]
+categories = [ "Pasta" ]
 cookTime = ""
-photo = []
+photo = [ ]
 prepTime = ""
 servings = ""
-tags = [ "Needs Work",]
+tags = [ "Needs Work" ]
 title = "Raschiatelli"
-ingredients = "- Flour one handful per person\n- Water "
+ingredients = """
+- Flour one handful per person
+- Water """
 directions = "- None provided"
-
+_template = "recipe_temples"
 +++
+

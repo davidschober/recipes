@@ -1,11 +1,12 @@
 +++
-categories = [ "Appetizers",]
+categories = [ "Appetizers" ]
 cookTime = ""
 prepTime = ""
 servings = ""
-tags = [ "Needs Work",]
+tags = [ "Needs Work" ]
 title = "Carciofi Sott'olio"
-
+_template = "recipe_temples"
 +++
+
 
 NEED RECIPE

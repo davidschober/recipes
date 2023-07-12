@@ -1,13 +1,25 @@
 +++
-categories = ["Sauces"]
+categories = [ "Sauces" ]
 cookTime = ""
 description = ""
-directions = "* Place sliced onions in a jar\n* Combine the rest of the ingredients in a saucepan and bring to a boil\n* Fill jar, cool and refrigerate"
-ingredients = "\n* 1 red onion, thinly sliced\n* 1 c. White vinegar\n* 1 c. Water\n* 1 t. Sea salt\n* 1 T. Honey\n* Dash of red pepper flakes (optional)\n* Peppercorns (optional)"
+directions = """
+* Place sliced onions in a jar
+* Combine the rest of the ingredients in a saucepan and bring to a boil
+* Fill jar, cool and refrigerate"""
+ingredients = """
+
+* 1 red onion, thinly sliced
+* 1 c. White vinegar
+* 1 c. Water
+* 1 t. Sea salt
+* 1 T. Honey
+* Dash of red pepper flakes (optional)
+* Peppercorns (optional)"""
 notes = ""
 prepTime = ""
 servings = ""
-tags = []
+tags = [ ]
 title = "Pickled Onions"
-
+_template = "recipe_temples"
 +++
+

@@ -1,5 +1,5 @@
 +++
-categories = ["Appetizers"]
+categories = [ "Appetizers" ]
 cookTime = ""
 description = "Need a recipe"
 directions = ""
@@ -7,7 +7,8 @@ ingredients = ""
 notes = ""
 prepTime = ""
 servings = ""
-tags = ["Needs Work"]
+tags = [ "Needs Work" ]
 title = "Arancini"
-
+_template = "recipe_temples"
 +++
+
