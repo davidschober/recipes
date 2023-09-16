@@ -2,6 +2,7 @@
 categories:
 - Sauces
 cookTime: 45 min
+description: ""
 directions: |-
   * Cover the bottom of the pan with oil on medium heat
   * When oil is beginning to sizzle add the onion and rosemary.
@@ -20,10 +21,8 @@ ingredients: |-
 notes: My mom always added butter at the end to give it a more velvety taste. I haven’t
   done it but it’s an option
 photo: []
-prepTime: ''
-servings: ''
+prepTime: ""
+servings: ""
 tags: []
 title: Paolo's sauce
-description: ''
-
 ---

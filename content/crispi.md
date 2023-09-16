@@ -11,7 +11,7 @@ ingredients: "- 2-4 cups of flour \n- 1 package of yeast\n- 1T. salt\n- 1-2 cups
   Oil for frying"
 photo: []
 prepTime: '-'
-servings: ''
+servings: ""
 tags:
 - Christmas
 title: Crispi

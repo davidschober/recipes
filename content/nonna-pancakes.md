@@ -1,12 +1,19 @@
-+++
-categories = [ "Breakfast",]
-cookTime = ""
-photo = ""
-prepTime = ""
-servings = ""
-tags = [ "Breakfast",]
-title = "Nonna Pancakes"
-ingredients = "* 1 egg\n* 1 banana\n* cinnamon"
-directions = "* Mash banana and mix with egg\n* Add cinnamon to taste\n* Pan fry as normal pancakes"
-
-+++
+---
+categories:
+- Breakfast
+cookTime: ""
+directions: |-
+  * Mash banana and mix with egg
+  * Add cinnamon to taste
+  * Pan fry as normal pancakes
+ingredients: |-
+  * 1 egg
+  * 1 banana
+  * cinnamon
+photo: ""
+prepTime: ""
+servings: ""
+tags:
+- Breakfast
+title: Nonna Pancakes
+---
