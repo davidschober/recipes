@@ -427,6 +427,28 @@ Prep Time:15 min | Cook Time : 20 min | Servings: 8 |
 * You can use other nuts in place of the pecans. Yet, pecans are preferred because their sweet taste goes perfectly with this slightly spicy, slightly savory preparation.
 * Store the sweet and spicy pecans in an airtight container at room temperature. They will retain their flavor and stay good up to a week.
 
+## test
+
+Prep Time:15 min | Cook Time : 15 min | Servings: 4 |
+
+### Directions
+
+1. Preheat the oven to 375 degrees F. Line a large baking sheet with a nonstick silicone liner, and lay the salmon, skin side down, on top. Set aside.
+
+2. Combine the mayonnaise, mustard, honey and chives in a medium bowl and stir to thoroughly combine. Reserve half of the sauce. Spoon the remaining sauce over the fish, spreading it evenly all over the top and sides of each fillet. Sprinkle with salt and pepper.
+
+3. Roast just until the fish is opaque in the center, 7 minutes. Increase the oven to broil. Broil the fish for 6 to 7 minutes, but keep your eye on it to avoid overcooking. Garnish with chives and serve with the reserved sauce."
+ingredients = "* Four 6- to 7-ounce salmon fillets, skin-on
+* 1/2 cup low-fat mayonnaise
+* 1/4 cup Dijon mustard
+* 1/4 cup honey
+* 2 tablespoons finely chopped chives, plus additional for garnish
+* Kosher salt and freshly ground white pepper
+* Kosher salt and freshly ground white pepper"
+notes = "From [Food Network](https://www.foodnetwork.com/recipes/valerie-bertinelli/baked-salmon-with-honey-mustard-sauce-3097803).
+
+Note from Stephanie: We don't use chives and the time listed is usually too long.
+
 ## Torta di Patate
 
 Prep Time:- | Cook Time : 45 min | Servings: - |
@@ -1961,6 +1983,28 @@ Prep Time:- | Cook Time : 12-15 min | Servings: - |
 * Combine the Creole Seasoning and melted butter in a medium bowl. Whisk to combine. Place 3 tablespoons of this mixture in a shallow dish and reserve the remaining mixture for later.
 * Skewer the shrimp on small 6 inch skewers, using 2-3 shrimp per skewer. Lay the skewers in the butter mixture in the shallow dish and coat both sides with the seasoning. Place the skewers on a parchment-lined baking sheet. Once all the shrimp have been skewered, place the baking sheet in the oven and let the shrimp bake for about 12-15 minutes until opaque throughout. Remove the skewers and place on a platter for serving.
 * Serve immediately with the remaining melted Creole butter and some crusty bread to dip in the butter.
+
+## test
+
+Prep Time:15 min | Cook Time : 15 min | Servings: 4 |
+
+### Directions
+
+1. Preheat the oven to 375 degrees F. Line a large baking sheet with a nonstick silicone liner, and lay the salmon, skin side down, on top. Set aside.
+
+2. Combine the mayonnaise, mustard, honey and chives in a medium bowl and stir to thoroughly combine. Reserve half of the sauce. Spoon the remaining sauce over the fish, spreading it evenly all over the top and sides of each fillet. Sprinkle with salt and pepper.
+
+3. Roast just until the fish is opaque in the center, 7 minutes. Increase the oven to broil. Broil the fish for 6 to 7 minutes, but keep your eye on it to avoid overcooking. Garnish with chives and serve with the reserved sauce."
+ingredients = "* Four 6- to 7-ounce salmon fillets, skin-on
+* 1/2 cup low-fat mayonnaise
+* 1/4 cup Dijon mustard
+* 1/4 cup honey
+* 2 tablespoons finely chopped chives, plus additional for garnish
+* Kosher salt and freshly ground white pepper
+* Kosher salt and freshly ground white pepper"
+notes = "From [Food Network](https://www.foodnetwork.com/recipes/valerie-bertinelli/baked-salmon-with-honey-mustard-sauce-3097803).
+
+Note from Stephanie: We don't use chives and the time listed is usually too long.
 
 # Main Dishes
 
