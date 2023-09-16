@@ -23,9 +23,9 @@ ingredients: |-
 notes: |-
   This is another note. It's a good idea to do some flow control indents
 
-but I'm going to see what happens if we don't just for kicks. 
+  but I'm going to see what happens if we don't just for kicks. 
   
-it is a multiline field
+  it is a multiline field
 
 prepTime: "15 min"
 servings: ""
