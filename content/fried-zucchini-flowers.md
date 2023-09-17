@@ -1,15 +1,19 @@
 ---
 categories:
 - Appetizers
-cookTime: ""
-description: ""
-directions: ""
-ingredients: "* Zucchini flowers, stamens removed\n* "
-notes: 'David and Stephanie''s note: This is the only reason we grow zucchini'
-prepTime: ""
-servings: ""
+cookTime: ''
+prepTime: ''
+servings: ''
 tags:
 - Needs Work
 title: Fried Zucchini Flowers
 ---
-NEED RECIPE
+
+NEED RECIPE## Ingredients 
+
+* Zucchini flowers, stamens removed
+* 
+
+## Notes 
+
+David and Stephanie's note: This is the only reason we grow zucchini

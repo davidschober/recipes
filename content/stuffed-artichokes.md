@@ -1,13 +1,9 @@
 ---
 categories:
 - Appetizers
-cookTime: ""
-description: ""
-directions: ""
-ingredients: ""
-notes: ""
-prepTime: ""
-servings: ""
+cookTime: ''
+prepTime: ''
+servings: ''
 tags:
 - Needs Work
 title: Stuffed Artichokes
