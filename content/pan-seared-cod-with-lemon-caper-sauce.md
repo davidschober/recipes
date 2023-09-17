@@ -6,16 +6,9 @@ cookTime: 15 min
 prepTime: 15 min
 servings: ''
 tags:
-- Breakfast
-- Christmas
+
 - Dinner
-- Easter
-- Holiday
-- Needs Work
-- Northern Italy
-- Southern Italy
-- Thanksgiving
-- Mardi Gras
+
 title: Pan-Seared Cod with Lemon-Caper Pan Sauce
 ---
 
