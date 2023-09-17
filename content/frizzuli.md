@@ -1,17 +1,22 @@
 ---
 categories:
 - Pasta
-cookTime: ""
-directions: '- None provided'
-ingredients: |-
-  - flour-one handful per person
-  - 2 eggs
-  - Water
+cookTime: ''
 photo: []
-prepTime: ""
-servings: ""
+prepTime: ''
+servings: ''
 tags:
 - Southern Italy
 - Needs Work
 title: Frizzuli
 ---
+
+## Ingredients 
+
+- flour-one handful per person
+- 2 eggs
+- Water
+
+## Directions 
+
+- None provided

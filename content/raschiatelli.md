@@ -1,13 +1,20 @@
 ---
 categories:
 - Pasta
-cookTime: ""
-directions: '- None provided'
-ingredients: "- Flour one handful per person\n- Water "
+cookTime: ''
 photo: []
-prepTime: ""
-servings: ""
+prepTime: ''
+servings: ''
 tags:
 - Needs Work
 title: Raschiatelli
 ---
+
+## Ingredients 
+
+- Flour one handful per person
+- Water 
+
+## Directions 
+
+- None provided

@@ -1,9 +1,9 @@
 ---
 categories:
 - Soups and Stews
-cookTime: ""
-prepTime: ""
-servings: ""
+cookTime: ''
+prepTime: ''
+servings: ''
 tags:
 - Needs Work
 title: Minestrone

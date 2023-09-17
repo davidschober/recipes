@@ -5,7 +5,5 @@
 <h1>{{ .Title }}</h1>
 
 {{ partial "date-and-tags.html" . }}
-
-{{partial "description-ingredients.html" .Params }}
-
+{{ .Content }}
 {{ end }}

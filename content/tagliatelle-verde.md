@@ -1,9 +1,9 @@
 ---
 categories:
 - Pasta
-cookTime: ""
-prepTime: ""
-servings: ""
+cookTime: ''
+prepTime: ''
+servings: ''
 tags:
 - Northern Italy
 - Needs Work

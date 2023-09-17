@@ -2,20 +2,29 @@
 categories:
 - Pasta
 - Main Dishes
-cookTime: ""
-directions: "- Cook the potatoes in their skin. Cool and rice\n- Add the rest of ingredients
-  to the potatoes \n- Form a long rope of about a foot\n- Cut rope every one inch\n-
-  Run each over a grater to form indentation; or use a fork\n- Cook in plenty of salted
-  water\n- They are done when they come to the top\n- Serve with any sauce"
-ingredients: |-
-  - 4 medium potatoes, cooked and riced
-  - 1 t. Salt, 1 t. Pepper
-  - 1 egg
-  - 1 c. Flour
+cookTime: ''
 photo: []
-prepTime: ""
-servings: ""
+prepTime: ''
+servings: ''
 tags:
 - Northern Italy
 title: Gnocchi
 ---
+
+## Ingredients 
+
+- 4 medium potatoes, cooked and riced
+- 1 t. Salt, 1 t. Pepper
+- 1 egg
+- 1 c. Flour
+
+## Directions 
+
+- Cook the potatoes in their skin. Cool and rice
+- Add the rest of ingredients to the potatoes 
+- Form a long rope of about a foot
+- Cut rope every one inch
+- Run each over a grater to form indentation; or use a fork
+- Cook in plenty of salted water
+- They are done when they come to the top
+- Serve with any sauce
