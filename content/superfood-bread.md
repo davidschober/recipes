@@ -21,7 +21,8 @@ Gluten-free, vegan.
 * 1/2 a cup of sunflower seeds
 * 3 heaped tablespoons of psyllium husk powder
 * 2 tablespoons of chia seeds
-* 2 tablespoons of dried mixed herbs (I used herbs de provence but basil, rosemary, thyme, oregano etc are all great)
+* 2 tablespoons of dried mixed herbs (I used herbs de provence but basil, rosemary, thyme, oregano etc are all great); this equals 6 tsps of herbs
+* 1 tsp salt (don't forget salt!)
 * salt and pepper to taste
 
 ## Directions 
