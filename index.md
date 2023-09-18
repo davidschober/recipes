@@ -845,7 +845,8 @@ Prep Time:- | Cook Time : 40-60 min | Servings: - |
 <li>1/2 a cup of sunflower seeds</li>
 <li>3 heaped tablespoons of psyllium husk powder</li>
 <li>2 tablespoons of chia seeds</li>
-<li>2 tablespoons of dried mixed herbs (I used herbs de provence but basil, rosemary, thyme, oregano etc are all great)</li>
+<li>2 tablespoons of dried mixed herbs (I used herbs de provence but basil, rosemary, thyme, oregano etc are all great); this equals 6 tsps of herbs</li>
+<li>1 tsp salt (don&rsquo;t forget salt!)</li>
 <li>salt and pepper to taste</li>
 </ul>
 <h2 id="directions">Directions</h2>
