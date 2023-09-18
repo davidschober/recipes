@@ -598,6 +598,36 @@ Prep Time:- | Cook Time : 60-75 min | Servings: 10 |
 
 
 
+## Banana Oatmeal Bread
+
+Prep Time:5 min | Cook Time : 40 min | Servings: 8 |
+
+<h2 id="description">Description</h2>
+<p>5 ingredient, gluten-free, not very sweet banana bread.</p>
+<h2 id="ingredients">Ingredients</h2>
+<ul>
+<li>3 medium bananas, over ripe</li>
+<li>2 eggs</li>
+<li>2 cups rolled oats</li>
+<li>1 tsp baking soda</li>
+<li>1 pinch salt</li>
+<li>1/4 cup maple syrup (or honey)</li>
+</ul>
+<h3 id="optional-add-ins">optional add ins:</h3>
+<p>1 tsp vanilla, 1/2 tsp cinnamon, 1/2 cup chocolate chips, 1/2 cup chopped walnuts, 1/2 cup chopped dates or raisins</p>
+<h2 id="directions">Directions</h2>
+<ol>
+<li>Preheat oven to 350° F and line a loaf pan with parchment paper.</li>
+<li>Add all of the ingredients, in the order above, to your blender or food processor (we use vitamix) and blend until smooth. Mixture will be liquidy and that&rsquo;s okay.</li>
+<li>Pour the batter into your pan and bake for around 40 minutes or until toothpick comes out mostly clean.  Allow bread to cool in the pan at least 20 minutes prior to transferring to cooling rack.  And then allow to cool another 20 minutes prior to slicing.</li>
+</ol>
+<h2 id="notes">Notes</h2>
+<p><a href="https://hungryhappens.net/healthy-banana-oatmeal-bread/">https://hungryhappens.net/healthy-banana-oatmeal-bread/</a></p>
+<p>Calories: 159kcal | Carbohydrates: 31g | Protein: 5g | Fat: 3g | Saturated Fat: 1g | Polyunsaturated Fat: 1g | Monounsaturated Fat: 1g | Trans Fat: 0.004g | Cholesterol: 41mg | Sodium: 160mg | Potassium: 270mg | Fiber: 3g | Sugar: 12g | Vitamin A: 88IU | Vitamin C: 4mg | Calcium: 30mg | Iron: 1mg</p>
+
+
+
+
 ## Crispi
 
 Prep Time:- | Cook Time : - | Servings: - |
@@ -915,6 +945,36 @@ Prep Time:- | Cook Time : 45 min | Servings: - |
 
 
 # Breakfast
+
+## Banana Oatmeal Bread
+
+Prep Time:5 min | Cook Time : 40 min | Servings: 8 |
+
+<h2 id="description">Description</h2>
+<p>5 ingredient, gluten-free, not very sweet banana bread.</p>
+<h2 id="ingredients">Ingredients</h2>
+<ul>
+<li>3 medium bananas, over ripe</li>
+<li>2 eggs</li>
+<li>2 cups rolled oats</li>
+<li>1 tsp baking soda</li>
+<li>1 pinch salt</li>
+<li>1/4 cup maple syrup (or honey)</li>
+</ul>
+<h3 id="optional-add-ins">optional add ins:</h3>
+<p>1 tsp vanilla, 1/2 tsp cinnamon, 1/2 cup chocolate chips, 1/2 cup chopped walnuts, 1/2 cup chopped dates or raisins</p>
+<h2 id="directions">Directions</h2>
+<ol>
+<li>Preheat oven to 350° F and line a loaf pan with parchment paper.</li>
+<li>Add all of the ingredients, in the order above, to your blender or food processor (we use vitamix) and blend until smooth. Mixture will be liquidy and that&rsquo;s okay.</li>
+<li>Pour the batter into your pan and bake for around 40 minutes or until toothpick comes out mostly clean.  Allow bread to cool in the pan at least 20 minutes prior to transferring to cooling rack.  And then allow to cool another 20 minutes prior to slicing.</li>
+</ol>
+<h2 id="notes">Notes</h2>
+<p><a href="https://hungryhappens.net/healthy-banana-oatmeal-bread/">https://hungryhappens.net/healthy-banana-oatmeal-bread/</a></p>
+<p>Calories: 159kcal | Carbohydrates: 31g | Protein: 5g | Fat: 3g | Saturated Fat: 1g | Polyunsaturated Fat: 1g | Monounsaturated Fat: 1g | Trans Fat: 0.004g | Cholesterol: 41mg | Sodium: 160mg | Potassium: 270mg | Fiber: 3g | Sugar: 12g | Vitamin A: 88IU | Vitamin C: 4mg | Calcium: 30mg | Iron: 1mg</p>
+
+
+
 
 ## Beatrice's Simple Whole Wheat Pancakes
 
