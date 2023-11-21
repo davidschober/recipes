@@ -6,7 +6,8 @@ cookTime: 40 min
 photo: []
 prepTime: ''
 servings: '4'
-tags: []
+tags:
+- Thanksgiving
 title: Easy Lasagne
 ---
 
