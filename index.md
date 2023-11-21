@@ -3101,8 +3101,8 @@ This is a short description
 * 1 white onion, sliced
 * 500g butternut squash, peeled and diced
 * 500g celeriac, peeled and diced
-* 2 apples (i use Granny Smiths), peeled and diced
-* 1 litre vegetable stock
+* 2 apples, peeled and diced
+* 1 litre vegetable stock (about 4 cups)
 * 2 tsp dried sage
 * 1/2 tsp ground nutmeg
 * 1–2 tsp dried chilli flakes
@@ -4638,8 +4638,8 @@ This is a short description
 * 1 white onion, sliced
 * 500g butternut squash, peeled and diced
 * 500g celeriac, peeled and diced
-* 2 apples (i use Granny Smiths), peeled and diced
-* 1 litre vegetable stock
+* 2 apples, peeled and diced
+* 1 litre vegetable stock (about 4 cups)
 * 2 tsp dried sage
 * 1/2 tsp ground nutmeg
 * 1–2 tsp dried chilli flakes
