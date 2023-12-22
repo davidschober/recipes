@@ -1924,7 +1924,7 @@ This cobbler is Rosa's recipe, using bisquick. It can be made with other fruit, 
 
 ## Peanut Butter Cups
 
-Prep Time:15 min | Cook Time : 15 min | Servings: 6 |
+Prep Time:15 min | Cook Time : 1 hour refrigerate | Servings: 6 |
 
 ### Description 
 
