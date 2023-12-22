@@ -2,7 +2,7 @@
 categories:
   - Desserts
   
-cookTime: 15 min
+cookTime: 1 hour refrigerate
 prepTime: 15 min
 servings: "6" 
 tags:
