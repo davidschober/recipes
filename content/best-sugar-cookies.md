@@ -15,6 +15,7 @@ title: Soft Cut-Out Sugar Cookies
 ## Description 
 
 https://sallysbakingaddiction.com/best-sugar-cookies/
+Use [Royal Icing recipe](https://davidschober.github.io/recipes/royal-icing/)
 
 ## Ingredients
 
