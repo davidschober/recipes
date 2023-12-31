@@ -1108,6 +1108,33 @@ Prep Time:- | Cook Time : 25-35 min | Servings: - |
 
 
 
+## Brown Butter Sugar Cookies
+
+Prep Time:15 min | Cook Time : 15 min | Servings: - |
+
+### Description 
+https://www.barleyandsage.com/brown-butter-sugar-cookies/
+This is a short description
+
+### Ingredients
+
+* a list 
+* of ingredients 
+
+### Directions
+
+1. a list
+2. of things
+3. to do
+3. It's OK if you don't number right
+
+### Notes 
+
+This is a note
+
+
+
+
 ## Cannarìculi
 
 Prep Time:- | Cook Time : - | Servings: - |
@@ -1447,6 +1474,33 @@ Prep Time:- | Cook Time : 60 min. | Servings: - |
 * Add the apples and stir
 * Pour into greased springform pan and bake for 1 hr, 350 degrees
 * Drizzle caramel sauce or powdered sugar over top and serve
+
+
+
+## Brown Butter Sugar Cookies
+
+Prep Time:15 min | Cook Time : 15 min | Servings: - |
+
+### Description 
+https://www.barleyandsage.com/brown-butter-sugar-cookies/
+This is a short description
+
+### Ingredients
+
+* a list 
+* of ingredients 
+
+### Directions
+
+1. a list
+2. of things
+3. to do
+3. It's OK if you don't number right
+
+### Notes 
+
+This is a note
+
 
 
 
