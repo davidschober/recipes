@@ -1375,7 +1375,7 @@ Prep Time:2 hour, 30 min | Cook Time : 12 min | Servings: 24 cookies |
 
 ### Description 
 
-This is a short description
+https://sallysbakingaddiction.com/best-sugar-cookies/
 
 ### Ingredients
 
@@ -1401,8 +1401,12 @@ This is a short description
 9. Enjoy cookies right away or wait until the icing sets to serve them. Once the icing has set, these cookies are great for gifting or for sending. Plain or decorated cookies stay soft for about 5 days when covered tightly at room temperature. For longer storage, cover and refrigerate for up to 10 days.
 
 ### Notes 
-
-This is a note
+Recipe: https://sallysbakingaddiction.com/best-sugar-cookies/
+Notes from original recipe
+1. Freezing Instructions: Plain or decorated sugar cookies freeze well up to 3 months. Wait for the icing to set completely before layering between sheets of parchment paper in a freezer-friendly container. To thaw, thaw in the refrigerator or at room temperature. You can also freeze the cookie dough for up to 3 months before rolling it out. Prepare the dough through step 3, divide in half, flatten both halves into a disk as we do with pie crust, wrap each in plastic wrap, then freeze. To thaw, thaw the disks in the refrigerator, then bring to room temperature for about 1 hour. Roll out the dough as directed in step 4, then chill rolled out dough in the refrigerator for 45 minutes – 1 hour before cutting into shapes and baking.
+2. Room Temperature: Room temperature butter is essential. If the dough is too sticky, your butter may have been too soft. Room temperature butter is actually cool to the touch. Room temperature egg is preferred so it’s quickly and evenly mixed into the cookie dough.
+3. Flavors: I love flavoring this cookie dough with 1/2 teaspoon almond extract as listed in the ingredients above. For lighter flavor, use 1/4 teaspoon. Instead of the almond extract, try using 1 teaspoon of maple extract, coconut extract, lemon extract, or peppermint extract. Or add 1 teaspoon pumpkin pie spice or ground cinnamon. If using lemon extract, you can also add 1 Tablespoon lemon zest.
+4. Icing: Use royal icing 
 
 
 
@@ -2104,7 +2108,7 @@ Prep Time:2 hour, 30 min | Cook Time : 12 min | Servings: 24 cookies |
 
 ### Description 
 
-This is a short description
+https://sallysbakingaddiction.com/best-sugar-cookies/
 
 ### Ingredients
 
@@ -2130,8 +2134,12 @@ This is a short description
 9. Enjoy cookies right away or wait until the icing sets to serve them. Once the icing has set, these cookies are great for gifting or for sending. Plain or decorated cookies stay soft for about 5 days when covered tightly at room temperature. For longer storage, cover and refrigerate for up to 10 days.
 
 ### Notes 
-
-This is a note
+Recipe: https://sallysbakingaddiction.com/best-sugar-cookies/
+Notes from original recipe
+1. Freezing Instructions: Plain or decorated sugar cookies freeze well up to 3 months. Wait for the icing to set completely before layering between sheets of parchment paper in a freezer-friendly container. To thaw, thaw in the refrigerator or at room temperature. You can also freeze the cookie dough for up to 3 months before rolling it out. Prepare the dough through step 3, divide in half, flatten both halves into a disk as we do with pie crust, wrap each in plastic wrap, then freeze. To thaw, thaw the disks in the refrigerator, then bring to room temperature for about 1 hour. Roll out the dough as directed in step 4, then chill rolled out dough in the refrigerator for 45 minutes – 1 hour before cutting into shapes and baking.
+2. Room Temperature: Room temperature butter is essential. If the dough is too sticky, your butter may have been too soft. Room temperature butter is actually cool to the touch. Room temperature egg is preferred so it’s quickly and evenly mixed into the cookie dough.
+3. Flavors: I love flavoring this cookie dough with 1/2 teaspoon almond extract as listed in the ingredients above. For lighter flavor, use 1/4 teaspoon. Instead of the almond extract, try using 1 teaspoon of maple extract, coconut extract, lemon extract, or peppermint extract. Or add 1 teaspoon pumpkin pie spice or ground cinnamon. If using lemon extract, you can also add 1 Tablespoon lemon zest.
+4. Icing: Use royal icing 
 
 
 
