@@ -1404,6 +1404,7 @@ Prep Time:2 hour, 30 min | Cook Time : 12 min | Servings: 24 cookies |
 ### Description 
 
 https://sallysbakingaddiction.com/best-sugar-cookies/
+
 Use [Royal Icing recipe](https://davidschober.github.io/recipes/royal-icing/)
 
 ### Ingredients
@@ -2166,6 +2167,7 @@ Prep Time:2 hour, 30 min | Cook Time : 12 min | Servings: 24 cookies |
 ### Description 
 
 https://sallysbakingaddiction.com/best-sugar-cookies/
+
 Use [Royal Icing recipe](https://davidschober.github.io/recipes/royal-icing/)
 
 ### Ingredients
