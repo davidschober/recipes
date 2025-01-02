@@ -2676,7 +2676,7 @@ Beans and Greens. Serve with bread.
 ### Ingredients
 
 * 1/4 cup olive oil
-* 1 small fennel bulb, trimmed, cored, small-diced (we dont' use this)
+* 1 small fennel bulb, trimmed, cored, small-diced (we don't use this)
 * 1 small yellow onion, small-diced
 * 2 teaspoons minced fresh rosemary or thyme
 * 5 garlic cloves, minced
