@@ -39,7 +39,7 @@ Beans and Greens. Serve with bread.
 
 ## Notes 
 
-Sometimes we add white wine before the broth.
-Good as a main with sausage or a side. Good as leftovers.
-From: NY Times cooking
+* Sometimes we add white wine before the broth.
+* Good as a main with sausage or a side. Good as leftovers.
+* From: NY Times cooking
 
