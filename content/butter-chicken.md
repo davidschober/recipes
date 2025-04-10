@@ -41,5 +41,5 @@ Quick 20-minute butter chicken is creamy and packed full of flavor. It's simplif
 3. Add the heavy cream and simmer for 8-10 minutes stirring occasionally. Serve over Basmati rice or with naan.
 
 ## Notes 
-Add peas. We use yogurt (mixed with a little water for consistency). Could also use coconut milk.
+Prep time is longer than 5 minutes. Add peas. We use yogurt (mixed with a little water for consistency). Could also use coconut milk.
 From: https://gimmedelicious.com/easy-20-minute-butter-chicken/
