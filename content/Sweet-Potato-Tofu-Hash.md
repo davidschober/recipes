@@ -21,7 +21,7 @@ This is a short description
 * 1 medium red onion, a quarter thinly sliced, the rest cut into ½-inch pieces
 * 1 rosemary sprig (optional)
 * ¼ cup extra-virgin olive oil
-* Kosher salt (such as Diamond Crystal)
+* Kosher salt
 * 1 (14- to 16-ounce) block extra-firm tofu, cut into ½-inch pieces and patted very dry
 * 8 ounces sweet potato (1 small), cut into ½-inch pieces
 * 2 tablespoons cornstarch
@@ -40,5 +40,5 @@ This is a short description
 
 From New York Times Cooking. 
 
-We use regular onion, add cauliflower, and add fried eggs.
+We use regular onion, add cauliflower, and add fried eggs. We don't usually do the pickled onions, though that would be yummy.
 
